@@ -1,0 +1,4223 @@
+[
+    {   
+    "State": "Andhra Pradesh",
+    "RTO_CODE": "AP",
+    "RTO_Cities": [
+      {
+        "City": "Anantapur",
+        "RTO_Code": "AP02"
+      },
+      {
+        "City": "Kadapa",
+        "RTO_Code": "AP04"
+      },
+      {
+        "City": "Kakinada",
+        "RTO_Code": "AP05"
+      },
+      {
+        "City": "Amalapuram",
+        "RTO_Code": "AP06"
+      },
+      {
+        "City": "Narasaraopeta",
+        "RTO_Code": "AP07"
+      },
+      {
+        "City": "Guntur",
+        "RTO_Code": "AP08"
+      },
+      {
+        "City": "Secunderabad",
+        "RTO_Code": "AP10"
+      },
+      {
+        "City": "Gudivada",
+        "RTO_Code": "AP16"
+      },
+      {
+        "City": "Vijayawada",
+        "RTO_Code": "AP17"
+      },
+      {
+        "City": "Adoni",
+        "RTO_Code": "AP18"
+      },
+      {
+        "City": "Gudur",
+        "RTO_Code": "AP19"
+      },
+      {
+        "City": "Chirala",
+        "RTO_Code": "AP21"
+      },
+      {
+        "City": "K.v.rangareddy",
+        "RTO_Code": "AP26"
+      },
+      {
+        "City": "Srikakulam",
+        "RTO_Code": "AP27"
+      },
+      {
+        "City": "Bhimavaram",
+        "RTO_Code": "AP29"
+      },
+      {
+        "City": "Eluru",
+        "RTO_Code": "AP30"
+      },
+      {
+        "City": "Gajuwaka",
+        "RTO_Code": "AP37"
+      },
+      {
+        "City": "Visakhapatnam",
+        "RTO_Code": "AP38"
+      },
+      {
+        "City": "Visakhapatnam",
+        "RTO_Code": "AP39"
+      }
+    ] 
+}, 
+{
+    "State": "Arunachal Pradesh", 
+    "RTO_CODE": "AR", 
+    "RTO_Cities": [
+          {
+            "City": "Itanagar",
+            "RTO_Code": ["AR01", "AR02"]
+          },
+          {
+            "City": "Tawang",
+            "RTO_Code": ["AR03"]
+          },
+          {
+            "City": "Bomdila",
+            "RTO_Code": ["AR04"]
+          },
+          {
+            "City": "Seppa",
+            "RTO_Code": ["AR05"]
+          },
+          {
+            "City": "Ziro",
+            "RTO_Code": ["AR06"]
+          },
+          {
+            "City": "Daporijo",
+            "RTO_Code": ["AR07"]
+          },
+          {
+            "City": "Along",
+            "RTO_Code": ["AR08"]
+          },
+          {
+            "City": "Pasighat",
+            "RTO_Code": ["AR09"]
+          },
+          {
+            "City": "Dibang Valley",
+            "RTO_Code": ["AR10"]
+          },
+          {
+            "City": "Tezu",
+            "RTO_Code": ["AR11"]
+          },
+          {
+            "City": "Changlang",
+            "RTO_Code": ["AR12"]
+          },
+          {
+            "City": "Khonsa",
+            "RTO_Code": ["AR13"]
+          },
+          {
+            "City": "Yingkiong",
+            "RTO_Code": ["AR14"]
+          },
+          {
+            "City": "Kurung Kumey",
+            "RTO_Code": ["AR15"]
+          },
+          {
+            "City": "Roing",
+            "RTO_Code": ["AR16"]
+          },
+          {
+            "City": "Lohit",
+            "RTO_Code": ["AR17"]
+          },
+          {
+            "City": "Longding",
+            "RTO_Code": ["AR18"]
+          },
+          {
+            "City": "Palin",
+            "RTO_Code": ["AR19"]
+          },
+          {
+            "City": "Namsai",
+            "RTO_Code": ["AR20"]
+          },
+          {
+            "City": "Siang",
+            "RTO_Code": ["AR21"]
+          },
+          {
+            "City": "Lower Siang",
+            "RTO_Code": ["AR22"]
+          },
+          {
+            "City": "Pakke Kessang",
+            "RTO_Code": ["AR24"]
+          },
+          {
+            "City": "Leparada",
+            "RTO_Code": ["AR25"]
+          }
+        ]
+}, 
+{
+    "State": "Assam", 
+    "RTO_CODE": "AS", 
+    "RTO_Cities": [
+        {
+          "City": "Guwahati",
+          "RTO_Code": ["AS01", "AS25"]
+        },
+        {
+          "City": "Nagaon",
+          "RTO_Code": ["AS02"]
+        },
+        {
+          "City": "Jorhat",
+          "RTO_Code": ["AS03"]
+        },
+        {
+          "City": "Sibsagar",
+          "RTO_Code": ["AS04"]
+        },
+        {
+          "City": "Golaghat",
+          "RTO_Code": ["AS05"]
+        },
+        {
+          "City": "Dibrugarh",
+          "RTO_Code": ["AS06"]
+        },
+        {
+          "City": "Lakhimpur",
+          "RTO_Code": ["AS07"]
+        },
+        {
+          "City": "North Cachar Hills",
+          "RTO_Code": ["AS08"]
+        },
+        {
+          "City": "Karbi Anglong",
+          "RTO_Code": ["AS09"]
+        },
+        {
+          "City": "Karim Ganj",
+          "RTO_Code": ["AS10"]
+        },
+        {
+          "City": "Silchar",
+          "RTO_Code": ["AS11"]
+        },
+        {
+          "City": "Tezpur",
+          "RTO_Code": ["AS12"]
+        },
+        {
+          "City": "Darrang",
+          "RTO_Code": ["AS13"]
+        },
+        {
+          "City": "Nalbari",
+          "RTO_Code": ["AS14"]
+        },
+        {
+          "City": "Barpeta",
+          "RTO_Code": ["AS15"]
+        },
+        {
+          "City": "Kokrajhar",
+          "RTO_Code": ["AS16"]
+        },
+        {
+          "City": "Dhubri",
+          "RTO_Code": ["AS17"]
+        },
+        {
+          "City": "Goalpara",
+          "RTO_Code": ["AS18"]
+        },
+        {
+          "City": "Bongaigaon",
+          "RTO_Code": ["AS19"]
+        },
+        {
+          "City": "Marigaon",
+          "RTO_Code": ["AS21"]
+        },
+        {
+          "City": "Dhemaji",
+          "RTO_Code": ["AS22"]
+        },
+        {
+          "City": "Tinsukia",
+          "RTO_Code": ["AS23"]
+        },
+        {
+          "City": "Hailakandi",
+          "RTO_Code": ["AS24"]
+        },
+        {
+          "City": "Chirang",
+          "RTO_Code": ["AS26"]
+        },
+        {
+          "City": "Udalguri",
+          "RTO_Code": ["AS27"]
+        },
+        {
+          "City": "Baksa",
+          "RTO_Code": ["AS28", "AS29"]
+        },
+        {
+          "City": "Hojai",
+          "RTO_Code": ["AS31"]
+        },
+        {
+          "City": "Biswanath",
+          "RTO_Code": ["AS32"]
+        },
+        {
+          "City": "Charaideo",
+          "RTO_Code": ["AS33"]
+        },
+        {
+          "City": "South Salmara",
+          "RTO_Code": ["AS34"]
+        }
+      ]
+}, 
+{
+    "State": "Bihar", 
+    "RTO_CODE": "BR", 
+"RTO_Cities": [
+    {
+      "City": "Patna",
+      "RTO_Code": ["BR01"]
+    },
+    {
+      "City": "Gaya",
+      "RTO_Code": ["BR02"]
+    },
+    {
+      "City": "Bhojpur",
+      "RTO_Code": ["BR03"]
+    },
+    {
+      "City": "Chapra",
+      "RTO_Code": ["BR04"]
+    },
+    {
+      "City": "Motihari",
+      "RTO_Code": ["BR05"]
+    },
+    {
+      "City": "Muzaffarpur",
+      "RTO_Code": ["BR06", "BR55"]
+    },
+    {
+      "City": "Darbhanga",
+      "RTO_Code": ["BR07"]
+    },
+    {
+      "City": "Monghyr",
+      "RTO_Code": ["BR08"]
+    },
+    {
+      "City": "Begusarai",
+      "RTO_Code": ["BR09"]
+    },
+    {
+      "City": "Bhagalpur",
+      "RTO_Code": ["BR10"]
+    },
+    {
+      "City": "Purnia",
+      "RTO_Code": ["BR11"]
+    },
+    {
+      "City": "Saharsa",
+      "RTO_Code": ["BR19"]
+    },
+    {
+      "City": "Nalanda",
+      "RTO_Code": ["BR21"]
+    },
+    {
+      "City": "Bettiah",
+      "RTO_Code": ["BR22"]
+    },
+    {
+      "City": "Rohtas",
+      "RTO_Code": ["BR24", "BR57"]
+    },
+    {
+      "City": "Jehanabad",
+      "RTO_Code": ["BR25"]
+    },
+    {
+      "City": "Aurangabad",
+      "RTO_Code": ["BR26"]
+    },
+    {
+      "City": "Nawadah",
+      "RTO_Code": ["BR27"]
+    },
+    {
+      "City": "Gopalganj",
+      "RTO_Code": ["BR28"]
+    },
+    {
+      "City": "Siwan",
+      "RTO_Code": ["BR29"]
+    },
+    {
+      "City": "Sitamarhi",
+      "RTO_Code": ["BR30"]
+    },
+    {
+      "City": "Hajipur",
+      "RTO_Code": ["BR31"]
+    },
+    {
+      "City": "Madhubani",
+      "RTO_Code": ["BR32"]
+    },
+    {
+      "City": "Samastipur",
+      "RTO_Code": ["BR33"]
+    },
+    {
+      "City": "Khagaria",
+      "RTO_Code": ["BR34"]
+    },
+    {
+      "City": "Kishanganj",
+      "RTO_Code": ["BR37"]
+    },
+    {
+      "City": "Araria",
+      "RTO_Code": ["BR38"]
+    },
+    {
+      "City": "Katihar",
+      "RTO_Code": ["BR39"]
+    },
+    {
+      "City": "Madhepura",
+      "RTO_Code": ["BR43"]
+    },
+    {
+      "City": "Buxar",
+      "RTO_Code": ["BR44"]
+    },
+    {
+      "City": "Bhabua",
+      "RTO_Code": ["BR45"]
+    },
+    {
+      "City": "Jamui",
+      "RTO_Code": ["BR46"]
+    },
+    {
+      "City": "Supaul",
+      "RTO_Code": ["BR50"]
+    },
+    {
+      "City": "Banka",
+      "RTO_Code": ["BR51"]
+    },
+    {
+      "City": "Sheikhpura",
+      "RTO_Code": ["BR52"]
+    },
+    {
+      "City": "Lakhisarai",
+      "RTO_Code": ["BR53"]
+    },
+    {
+      "City": "Jehanabad",
+      "RTO_Code": ["BR56"]
+    }
+  ]
+}, 
+{
+    "State": "Chattisgarh", 
+    "RTO_CODE": "CG",
+    "RTO_Cities": [
+    {
+      "City": "Raipur",
+      "RTO_Code": ["CG02", "CG04", "MP23"]
+    },
+    {
+      "City": "Dhamtari",
+      "RTO_Code": ["CG05"]
+    },
+    {
+      "City": "Mahasamund",
+      "RTO_Code": ["CG06"]
+    },
+    {
+      "City": "Durg",
+      "RTO_Code": ["CG07", "MP24"]
+    },
+    {
+      "City": "Rajnandgaon",
+      "RTO_Code": ["CG08", "MP29"]
+    },
+    {
+      "City": "Kabirdham",
+      "RTO_Code": ["CG09"]
+    },
+    {
+      "City": "Bilaspur",
+      "RTO_Code": ["CG10", "MP26"]
+    },
+    {
+      "City": "Janjgir-Champa",
+      "RTO_Code": ["CG11"]
+    },
+    {
+      "City": "Korba",
+      "RTO_Code": ["CG12"]
+    },
+    {
+      "City": "Raigarh",
+      "RTO_Code": ["CG13"]
+    },
+    {
+      "City": "Jashpur",
+      "RTO_Code": ["CG14"]
+    },
+    {
+      "City": "Ambikapur",
+      "RTO_Code": ["CG15", "MP27"]
+    },
+    {
+      "City": "Baikunthpur",
+      "RTO_Code": ["CG16"]
+    },
+    {
+      "City": "Jagdalpur",
+      "RTO_Code": ["CG17", "MP25"]
+    },
+    {
+      "City": "Dantewada",
+      "RTO_Code": ["CG18"]
+    },
+    {
+      "City": "Kanker",
+      "RTO_Code": ["CG19"]
+    },
+    {
+      "City": "Bijapur",
+      "RTO_Code": ["CG20"]
+    },
+    {
+      "City": "Narayanpur",
+      "RTO_Code": ["CG21"]
+    },
+    {
+      "City": "Baloda Bazar",
+      "RTO_Code": ["CG22"]
+    },
+    {
+      "City": "Gariaband",
+      "RTO_Code": ["CG23"]
+    },
+    {
+      "City": "Balod",
+      "RTO_Code": ["CG24"]
+    },
+    {
+      "City": "Bemetara",
+      "RTO_Code": ["CG25"]
+    },
+    {
+      "City": "Sukma",
+      "RTO_Code": ["CG26"]
+    },
+    {
+      "City": "Kondagaon",
+      "RTO_Code": ["CG27"]
+    },
+    {
+      "City": "Mungeli",
+      "RTO_Code": ["CG28"]
+    },
+    {
+      "City": "Surajpur",
+      "RTO_Code": ["CG29"]
+    },
+    {
+      "City": "Balrampur",
+      "RTO_Code": ["CG30"]
+    }
+  ]
+}, 
+{
+    "State": "Goa", 
+    "RTO_CODE": "GA", 
+    "RTO_Cities": [
+        {
+          "City": "Panji",
+          "RTO_Code": ["GA01"]
+        },
+        {
+          "City": "Margao",
+          "RTO_Code": ["GA02", "GA08"]
+        },
+        {
+          "City": "Goa",
+          "RTO_Code": ["GA03", "GA04", "GA06", "GA09"]
+        },
+        {
+          "City": "Ponda",
+          "RTO_Code": ["GA05"]
+        },
+        {
+          "City": "Panaji",
+          "RTO_Code": ["GA07"]
+        },
+        {
+          "City": "Canacona",
+          "RTO_Code": ["GA10"]
+        },
+        {
+          "City": "Pernem",
+          "RTO_Code": ["GA11"]
+        },
+        {
+          "City": "Dharbandora",
+          "RTO_Code": ["GA12"]
+        }
+      ]
+}, 
+{
+    "State": "Gujrat", 
+    "RTO_CODE": "GJ", 
+    "RTO_Cities": [
+        {
+          "City": "Ahmedabad",
+          "RTO_Code": ["GJ01", "GJ27", "GJ38"]
+        },
+        {
+          "City": "Mehsana",
+          "RTO_Code": ["GJ02"]
+        },
+        {
+          "City": "Rajkot",
+          "RTO_Code": ["GJ03"]
+        },
+        {
+          "City": "Bhavnagar",
+          "RTO_Code": ["GJ04"]
+        },
+        {
+          "City": "Surat",
+          "RTO_Code": ["GJ05", "GJ28"]
+        },
+        {
+          "City": "Vadodara",
+          "RTO_Code": ["GJ06", "GJ29"]
+        },
+        {
+          "City": "Kheda",
+          "RTO_Code": ["GJ07"]
+        },
+        {
+          "City": "Banaskantha",
+          "RTO_Code": ["GJ08"]
+        },
+        {
+          "City": "Himat Nagar",
+          "RTO_Code": ["GJ09"]
+        },
+        {
+          "City": "Jamnagar",
+          "RTO_Code": ["GJ10"]
+        },
+        {
+          "City": "Junagadh",
+          "RTO_Code": ["GJ11"]
+        },
+        {
+          "City": "Bhuj",
+          "RTO_Code": ["GJ12"]
+        },
+        {
+          "City": "Surendra Nagar",
+          "RTO_Code": ["GJ13"]
+        },
+        {
+          "City": "Amreli",
+          "RTO_Code": ["GJ14"]
+        },
+        {
+          "City": "Valsad",
+          "RTO_Code": ["GJ15"]
+        },
+        {
+          "City": "Bharuch",
+          "RTO_Code": ["GJ16"]
+        },
+        {
+          "City": "Godhra",
+          "RTO_Code": ["GJ17"]
+        },
+        {
+          "City": "Gandhi Nagar",
+          "RTO_Code": ["GJ18"]
+        },
+        {
+          "City": "Bardoli",
+          "RTO_Code": ["GJ19"]
+        },
+        {
+          "City": "Dahod",
+          "RTO_Code": ["GJ20"]
+        },
+        {
+          "City": "Navsari",
+          "RTO_Code": ["GJ21"]
+        },
+        {
+          "City": "Narmada",
+          "RTO_Code": ["GJ22"]
+        },
+        {
+          "City": "Anand",
+          "RTO_Code": ["GJ23"]
+        },
+        {
+          "City": "Patan",
+          "RTO_Code": ["GJ24"]
+        },
+        {
+          "City": "Porbandar",
+          "RTO_Code": ["GJ25"]
+        },
+        {
+          "City": "Vyara",
+          "RTO_Code": ["GJ26"]
+        },
+        {
+          "City": "Ahva-Dang",
+          "RTO_Code": ["GJ30"]
+        },
+        {
+          "City": "Aravalli",
+          "RTO_Code": ["GJ31"]
+        },
+        {
+          "City": "Veraval",
+          "RTO_Code": ["GJ32"]
+        },
+        {
+          "City": "Botad",
+          "RTO_Code": ["GJ33"]
+        },
+        {
+          "City": "Chhota-Udaipur",
+          "RTO_Code": ["GJ34"]
+        },
+        {
+          "City": "Mahisagar",
+          "RTO_Code": ["GJ35"]
+        },
+        {
+          "City": "Morbi",
+          "RTO_Code": ["GJ36"]
+        },
+        {
+          "City": "Dwarka",
+          "RTO_Code": ["GJ37"]
+        },
+        {
+          "City": "Anjar",
+          "RTO_Code": ["GJ39"]
+        }
+      ]
+}, 
+{
+    "State": "Haryana", 
+    "RTO_CODE": "HR", 
+    "RTO_Cities": [
+        {
+          "City": "Ambala",
+          "RTO_Code": ["HR01", "HR37", "HR54"]
+        },
+        {
+          "City": "Jagadhri",
+          "RTO_Code": ["HR02"]
+        },
+        {
+          "City": "Panchkula",
+          "RTO_Code": ["HR03", "HR68"]
+        },
+        {
+          "City": "Naraingarh",
+          "RTO_Code": ["HR04"]
+        },
+        {
+          "City": "Karnal",
+          "RTO_Code": ["HR05", "HR45", "HR75"]
+        },
+        {
+          "City": "Panipat",
+          "RTO_Code": ["HR06", "HR67"]
+        },
+        {
+          "City": "Kurukshetra",
+          "RTO_Code": ["HR07", "HR65"]
+        },
+        {
+          "City": "Kaithal",
+          "RTO_Code": ["HR08", "HR64"]
+        },
+        {
+          "City": "Gulah",
+          "RTO_Code": ["HR09"]
+        },
+        {
+          "City": "Sonepat",
+          "RTO_Code": ["HR10", "HR69"]
+        },
+        {
+          "City": "Gohana",
+          "RTO_Code": ["HR11"]
+        },
+        {
+          "City": "Rohtak",
+          "RTO_Code": ["HR12", "HR46"]
+        },
+        {
+          "City": "Jhajjar",
+          "RTO_Code": ["HR13", "HR14", "HR63"]
+        },
+        {
+          "City": "Meham",
+          "RTO_Code": ["HR15"]
+        },
+        {
+          "City": "Bhiwani",
+          "RTO_Code": ["HR16", "HR17", "HR48", "HR61"]
+        },
+        {
+          "City": "Loharu",
+          "RTO_Code": ["HR18"]
+        },
+        {
+          "City": "Charkhi Dadri",
+          "RTO_Code": ["HR19", "HR84"]
+        },
+        {
+          "City": "Hisar",
+          "RTO_Code": ["HR20"]
+        },
+        {
+          "City": "Hansi",
+          "RTO_Code": ["HR21"]
+        },
+        {
+          "City": "Fatehabad",
+          "RTO_Code": ["HR22", "HR59", "HR62"]
+        },
+        {
+          "City": "Tohana",
+          "RTO_Code": ["HR23"]
+        },
+        {
+          "City": "Sirsa",
+          "RTO_Code": ["HR24", "HR25", "HR44", "HR57"]
+        },
+        {
+          "City": "Gurgaon",
+          "RTO_Code": ["HR26", "HR55", "HR72"]
+        },
+        {
+          "City": "Hissar",
+          "RTO_Code": ["HR27", "HR39", "HR74", "HR80"]
+        },
+        {
+          "City": "Ferozepur Jhirka",
+          "RTO_Code": ["HR28"]
+        },
+        {
+          "City": "Faridabad",
+          "RTO_Code": ["HR29", "HR38", "HR51"]
+        },
+        {
+          "City": "Palwal",
+          "RTO_Code": ["HR30", "HR50", "HR73"]
+        },
+        {
+          "City": "Jind",
+          "RTO_Code": ["HR31", "HR56", "HR90"]
+        },
+        {
+          "City": "Narwana",
+          "RTO_Code": ["HR32"]
+        },
+        {
+          "City": "Safidon",
+          "RTO_Code": ["HR33"]
+        },
+        {
+          "City": "Mahendragarh",
+          "RTO_Code": ["HR34"]
+        },
+        {
+          "City": "Narnaul",
+          "RTO_Code": ["HR35", "HR66"]
+        },
+        {
+          "City": "Rewari",
+          "RTO_Code": ["HR36", "HR43", "HR47"]
+        },
+        {
+          "City": "Assandh",
+          "RTO_Code": ["HR40"]
+        },
+        {
+          "City": "Pehowa",
+          "RTO_Code": ["HR41"]
+        },
+        {
+          "City": "Ganaur",
+          "RTO_Code": ["HR42"]
+        },
+        {
+          "City": "Kalka",
+          "RTO_Code": ["HR49"]
+        },
+        {
+          "City": "Hathin",
+          "RTO_Code": ["HR52"]
+        },
+        {
+          "City": "Adampur",
+          "RTO_Code": ["HR53"]
+        },
+        {
+          "City": "Yamuna Nagar",
+          "RTO_Code": ["HR58", "HR71"]
+        },
+        {
+          "City": "Samalkha",
+          "RTO_Code": ["HR60"]
+        },
+        {
+          "City": "Pataudi",
+          "RTO_Code": ["HR76"]
+        },
+        {
+          "City": "Beri",
+          "RTO_Code": ["HR77"]
+        },
+        {
+          "City": "Shahabad Markanda",
+          "RTO_Code": ["HR78"]
+        },
+        {
+          "City": "Kharkhoda",
+          "RTO_Code": ["HR79"]
+        },
+        {
+          "City": "Bawal",
+          "RTO_Code": ["HR81"]
+        },
+        {
+          "City": "Kanina",
+          "RTO_Code": ["HR82"]
+        },
+        {
+          "City": "Kalayat",
+          "RTO_Code": ["HR83"]
+        },
+        {
+          "City": "Rai",
+          "RTO_Code": ["HR85"]
+        },
+        {
+          "City": "Sonipat",
+          "RTO_Code": ["HR86"]
+        },
+        {
+          "City": "Badkhal",
+          "RTO_Code": ["HR87"]
+        },
+        {
+          "City": "Kundli",
+          "RTO_Code": ["HR88"]
+        },
+        {
+          "City": "Badli",
+          "RTO_Code": ["HR89"]
+        },
+        {
+          "City": "Gharaunda",
+          "RTO_Code": ["HR91"]
+        },
+        {
+          "City": "Radaur",
+          "RTO_Code": ["HR92"]
+        },
+        {
+          "City": "Punhana",
+          "RTO_Code": ["HR93"]
+        },
+        {
+          "City": "Kalanwali",
+          "RTO_Code": ["HR94"]
+        },
+        {
+          "City": "Sampla",
+          "RTO_Code": ["HR95"]
+        },
+        {
+          "City": "Tauru",
+          "RTO_Code": ["HR96"]
+        },
+        {
+          "City": "Ladwa",
+          "RTO_Code": ["HR97"]
+        },
+        {
+          "City": "Badshahpur",
+          "RTO_Code": ["HR98"]
+        }
+      ]
+}, 
+{
+    "State": "Himachal Pradesh", 
+    "RTO_CODE": "HP", 
+    "RTO_Cities": [
+        {
+          "City": "Shimla",
+          "RTO_Code": ["HP01", "HP02", "HP03", "HP08", "HP50", "HP51", "HP52", "HP62", "HP63"]
+        },
+        {
+          "City": "Dharmasala",
+          "RTO_Code": ["HP04"]
+        },
+        {
+          "City": "Mandi",
+          "RTO_Code": ["HP05", "HP29", "HP31", "HP32", "HP33", "HP65", "HP76", "HP82"]
+        },
+        {
+          "City": "Rampur Bushahr",
+          "RTO_Code": ["HP06", "HP07"]
+        },
+        {
+          "City": "Theog",
+          "RTO_Code": ["HP09"]
+        },
+        {
+          "City": "Rohru",
+          "RTO_Code": ["HP10"]
+        },
+        {
+          "City": "Arki",
+          "RTO_Code": ["HP11"]
+        },
+        {
+          "City": "Nalagarh",
+          "RTO_Code": ["HP12"]
+        },
+        {
+          "City": "Solan",
+          "RTO_Code": ["HP13", "HP14", "HP15", "HP59", "HP64"]
+        },
+        {
+          "City": "Sirmaur",
+          "RTO_Code": ["HP16"]
+        },
+        {
+          "City": "Paonta Sahib",
+          "RTO_Code": ["HP17"]
+        },
+        {
+          "City": "Nahan",
+          "RTO_Code": ["HP18", "HP71"]
+        },
+        {
+          "City": "Una",
+          "RTO_Code": ["HP19", "HP20", "HP72"]
+        },
+        {
+          "City": "Barsar",
+          "RTO_Code": ["HP21"]
+        },
+        {
+          "City": "Hamirpur (HP)",
+          "RTO_Code": ["HP22"]
+        },
+        {
+          "City": "Bilaspur",
+          "RTO_Code": ["HP23", "HP24", "HP69"]
+        },
+        {
+          "City": "Rekong Peo",
+          "RTO_Code": ["HP25", "HP26", "HP27"]
+        },
+        {
+          "City": "Sarkaghat",
+          "RTO_Code": ["HP28"]
+        },
+        {
+          "City": "Karsog",
+          "RTO_Code": ["HP30"]
+        },
+        {
+          "City": "Kullu",
+          "RTO_Code": ["HP34", "HP35", "HP41", "HP42", "HP43", "HP58", "HP61", "HP66"]
+        },
+        {
+          "City": "Dehra Gopipur",
+          "RTO_Code": ["HP36"]
+        },
+        {
+          "City": "Palampur",
+          "RTO_Code": ["HP37"]
+        },
+        {
+          "City": "Kangra",
+          "RTO_Code": ["HP38", "HP39", "HP53", "HP54", "HP56", "HP68", "HP94"]
+        },
+        {
+          "City": "Chamba",
+          "RTO_Code": ["HP40", "HP44", "HP45", "HP46", "HP47", "HP48", "HP57", "HP73"]
+        },
+        {
+          "City": "Banjar",
+          "RTO_Code": ["HP49"]
+        },
+        {
+          "City": "Hamirpur",
+          "RTO_Code": ["HP55", "HP60", "HP67", "HP74"]
+        },
+        {
+          "City": "Dodrakawar",
+          "RTO_Code": ["HP77"]
+        },
+        {
+          "City": "Bangana, Una",
+          "RTO_Code": ["HP78"]
+        },
+        {
+          "City": "Sangrah, Sirmaur",
+          "RTO_Code": ["HP79"]
+        },
+        {
+          "City": "Haroli, Una",
+          "RTO_Code": ["HP80"]
+        },
+        {
+          "City": "Salooni",
+          "RTO_Code": ["HP81"]
+        },
+        {
+          "City": "Jawalaji, Kangra",
+          "RTO_Code": ["HP83"]
+        },
+        {
+          "City": "Sujanpur",
+          "RTO_Code": ["HP84"]
+        },
+        {
+          "City": "Shillai",
+          "RTO_Code": ["HP85"]
+        },
+        {
+          "City": "Dharmpur",
+          "RTO_Code": ["HP86"]
+        },
+        {
+          "City": "Janjehli",
+          "RTO_Code": ["HP87"]
+        },
+        {
+          "City": "Fatehpur",
+          "RTO_Code": ["HP88"]
+        },
+        {
+          "City": "Jhandutta",
+          "RTO_Code": ["HP89"]
+        },
+        {
+          "City": "Shahpur",
+          "RTO_Code": ["HP90"]
+        },
+        {
+          "City": "Swarghat",
+          "RTO_Code": ["HP91"]
+        },
+        {
+          "City": "Rampur",
+          "RTO_Code": ["HP92"]
+        },
+        {
+          "City": "Baddi",
+          "RTO_Code": ["HP93"]
+        },
+        {
+          "City": "Kumarsain",
+          "RTO_Code": ["HP95"]
+        },
+        {
+          "City": "Dheera",
+          "RTO_Code": ["HP96", "HP96"]
+        },
+        {
+          "City": "Indora",
+          "RTO_Code": ["HP97"]
+        },
+        {
+          "City": "Kasauli",
+          "RTO_Code": ["HP98"]
+        },
+        {
+          "City": "Kotkhai",
+          "RTO_Code": ["HP99"]
+        }
+      ]
+}, 
+{
+    "State": "Jharkhand", 
+    "RTO_CODE": "JH", 
+    "RTO_Cities": [
+        {
+          "City": "Dumka",
+          "RTO_Code": ["BR12", "JH04"]
+        },
+        {
+          "City": "Hazaribagh",
+          "RTO_Code": ["BR13", "JH02"]
+        },
+        {
+          "City": "Ranchi",
+          "RTO_Code": ["BR14", "JH01"]
+        },
+        {
+          "City": "Palamu",
+          "RTO_Code": ["BR15", "JH03"]
+        },
+        {
+          "City": "Jamshedpur",
+          "RTO_Code": ["BR16", "JH05"]
+        },
+        {
+          "City": "Dhanbad",
+          "RTO_Code": ["BR17", "JH10"]
+        },
+        {
+          "City": "Chaibasa",
+          "RTO_Code": ["BR18"]
+        },
+        {
+          "City": "Bokaro",
+          "RTO_Code": ["BR20", "JH09"]
+        },
+        {
+          "City": "Giridh",
+          "RTO_Code": ["BR23"]
+        },
+        {
+          "City": "Sahebganj",
+          "RTO_Code": ["BR35"]
+        },
+        {
+          "City": "Godda",
+          "RTO_Code": ["BR36", "JH17"]
+        },
+        {
+          "City": "Deoghar",
+          "RTO_Code": ["BR40", "JH15"]
+        },
+        {
+          "City": "Gumla",
+          "RTO_Code": ["BR41", "JH07"]
+        },
+        {
+          "City": "Lohardaga",
+          "RTO_Code": ["BR42", "JH08"]
+        },
+        {
+          "City": "Koderma",
+          "RTO_Code": ["BR47", "JH12"]
+        },
+        {
+          "City": "Chatra",
+          "RTO_Code": ["BR48", "JH13"]
+        },
+        {
+          "City": "East Singhbhum",
+          "RTO_Code": ["JH06"]
+        },
+        {
+          "City": "Giridih",
+          "RTO_Code": ["JH11"]
+        },
+        {
+          "City": "Garhwa",
+          "RTO_Code": ["JH14"]
+        },
+        {
+          "City": "Pakur",
+          "RTO_Code": ["JH16"]
+        },
+        {
+          "City": "Sahibganj",
+          "RTO_Code": ["JH18"]
+        },
+        {
+          "City": "Latehar",
+          "RTO_Code": ["JH19"]
+        },
+        {
+          "City": "Simdega",
+          "RTO_Code": ["JH20"]
+        },
+        {
+          "City": "Jamtara",
+          "RTO_Code": ["JH21"]
+        },
+        {
+          "City": "Seraikela Kharsawan",
+          "RTO_Code": ["JH22"]
+        },
+        {
+          "City": "Khunti",
+          "RTO_Code": ["JH23"]
+        },
+        {
+          "City": "Ramgarh",
+          "RTO_Code": ["JH24"]
+        }
+      ]
+}, 
+{
+    "State": "Karnataka", 
+    "RTO_CODE": "KA", 
+    "RTO_Cities": [
+        {
+          "City": "Bangalore",
+          "RTO_Code": ["KA01", "KA03", "KA04", "KA05", "KA41", "KA51", "KA52", "KA53"]
+        },
+        {
+          "City": "Rajajinagar",
+          "RTO_Code": ["KA02"]
+        },
+        {
+          "City": "Tumkur",
+          "RTO_Code": ["KA06"]
+        },
+        {
+          "City": "Kolar",
+          "RTO_Code": ["KA07", "KA08"]
+        },
+        {
+          "City": "Mysore",
+          "RTO_Code": ["KA09", "KA55"]
+        },
+        {
+          "City": "Chamrajnagar",
+          "RTO_Code": ["KA10"]
+        },
+        {
+          "City": "Mandya",
+          "RTO_Code": ["KA11"]
+        },
+        {
+          "City": "Madikere",
+          "RTO_Code": ["KA12"]
+        },
+        {
+          "City": "Hassan",
+          "RTO_Code": ["KA13"]
+        },
+        {
+          "City": "Shimoga",
+          "RTO_Code": ["KA14", "KA15"]
+        },
+        {
+          "City": "Chitradurga",
+          "RTO_Code": ["KA16"]
+        },
+        {
+          "City": "Davanagere",
+          "RTO_Code": ["KA17"]
+        },
+        {
+          "City": "Chickmagalur",
+          "RTO_Code": ["KA18"]
+        },
+        {
+          "City": "Mangalore",
+          "RTO_Code": ["KA19"]
+        },
+        {
+          "City": "Udupi",
+          "RTO_Code": ["KA20"]
+        },
+        {
+          "City": "Puttur",
+          "RTO_Code": ["KA21"]
+        },
+        {
+          "City": "Belgaum",
+          "RTO_Code": ["KA22"]
+        },
+        {
+          "City": "Chikodi",
+          "RTO_Code": ["KA23"]
+        },
+        {
+          "City": "Bailhongal",
+          "RTO_Code": ["KA24"]
+        },
+        {
+          "City": "Dharwad",
+          "RTO_Code": ["KA25"]
+        },
+        {
+          "City": "Gadag",
+          "RTO_Code": ["KA26"]
+        },
+        {
+          "City": "Haveri",
+          "RTO_Code": ["KA27"]
+        },
+        {
+          "City": "Bijapur",
+          "RTO_Code": ["KA28"]
+        },
+        {
+          "City": "Bagalkot",
+          "RTO_Code": ["KA29"]
+        },
+        {
+          "City": "Karwar",
+          "RTO_Code": ["KA30"]
+        },
+        {
+          "City": "Sirsi",
+          "RTO_Code": ["KA31"]
+        },
+        {
+          "City": "Gulbarga",
+          "RTO_Code": ["KA32"]
+        },
+        {
+          "City": "Yadgir",
+          "RTO_Code": ["KA33"]
+        },
+        {
+          "City": "Bellary",
+          "RTO_Code": ["KA34"]
+        },
+        {
+          "City": "Hospet",
+          "RTO_Code": ["KA35"]
+        },
+        {
+          "City": "Raichur",
+          "RTO_Code": ["KA36"]
+        },
+        {
+          "City": "Koppal",
+          "RTO_Code": ["KA37"]
+        },
+        {
+          "City": "Bidar",
+          "RTO_Code": ["KA38", "KA56"]
+        },
+        {
+          "City": "Bhalki",
+          "RTO_Code": ["KA39"]
+        },
+        {
+          "City": "Chikaballapur",
+          "RTO_Code": ["KA40"]
+        },
+        {
+          "City": "Ramanagar",
+          "RTO_Code": ["KA42"]
+        },
+        {
+          "City": "Devanahalli",
+          "RTO_Code": ["KA43"]
+        },
+        {
+          "City": "Tiptur",
+          "RTO_Code": ["KA44"]
+        },
+        {
+          "City": "Hunsur",
+          "RTO_Code": ["KA45"]
+        },
+        {
+          "City": "Sakleshpur",
+          "RTO_Code": ["KA46"]
+        },
+        {
+          "City": "Honavar",
+          "RTO_Code": ["KA47"]
+        },
+        {
+          "City": "Jamkhandi",
+          "RTO_Code": ["KA48"]
+        },
+        {
+          "City": "Gokak",
+          "RTO_Code": ["KA49"]
+        },
+        {
+          "City": "Yelahanka",
+          "RTO_Code": ["KA50"]
+        },
+        {
+          "City": "Nagamangala",
+          "RTO_Code": ["KA54"]
+        },
+        {
+          "City": "Banashankari",
+          "RTO_Code": ["KA59"]
+        },
+        {
+          "City": "Marathahalli",
+          "RTO_Code": ["KA61"]
+        },
+        {
+          "City": "Surathkal",
+          "RTO_Code": ["KA62"]
+        },
+        {
+          "City": "Hubli",
+          "RTO_Code": ["KA63"]
+        },
+        {
+          "City": "Madhugiri",
+          "RTO_Code": ["KA64"]
+        },
+        {
+          "City": "Dandeli",
+          "RTO_Code": ["KA65"]
+        },
+        {
+          "City": "Tarikere",
+          "RTO_Code": ["KA66"]
+        },
+        {
+          "City": "Sedam",
+          "RTO_Code": ["KA67"]
+        },
+        {
+          "City": "Ranibennur",
+          "RTO_Code": ["KA68"]
+        },
+        {
+          "City": "Ranebennur",
+          "RTO_Code": ["KA69"]
+        },
+        {
+          "City": "Bantwal",
+          "RTO_Code": ["KA70"]
+        },
+        {
+          "City": "Athani",
+          "RTO_Code": ["KA71"]
+        }
+      ]
+}, 
+{
+    "State": "Kerala", 
+    "RTO_CODE": "KL", 
+    "RTO_Cities": [
+        {
+          "City": "Thiruvananthapuram",
+          "RTO_Code": ["KL01", "KL19", "KL22"]
+        },
+        {
+          "City": "Kollam",
+          "RTO_Code": ["KL02", "KL61"]
+        },
+        {
+          "City": "Pathanamthitta",
+          "RTO_Code": ["KL03", "KL62"]
+        },
+        {
+          "City": "Alappuzha",
+          "RTO_Code": ["KL04"]
+        },
+        {
+          "City": "Kottayam",
+          "RTO_Code": ["KL05"]
+        },
+        {
+          "City": "Idukki",
+          "RTO_Code": ["KL06", "KL37"]
+        },
+        {
+          "City": "Ernakulam",
+          "RTO_Code": ["KL07", "KL39", "KL42"]
+        },
+        {
+          "City": "Thrissur",
+          "RTO_Code": ["KL08", "KL46", "KL47", "KL48", "KL64"]
+        },
+        {
+          "City": "Palakkad",
+          "RTO_Code": ["KL09", "KL49", "KL50", "KL52"]
+        },
+        {
+          "City": "Malappuram",
+          "RTO_Code": ["KL10"]
+        },
+        {
+          "City": "Kozhikode",
+          "RTO_Code": ["KL11", "KL56", "KL57"]
+        },
+        {
+          "City": "Wayanad",
+          "RTO_Code": ["KL12"]
+        },
+        {
+          "City": "Kannur",
+          "RTO_Code": ["KL13"]
+        },
+        {
+          "City": "Kasaragod",
+          "RTO_Code": ["KL14"]
+        },
+        {
+          "City": "Trivandrum",
+          "RTO_Code": ["KL15"]
+        },
+        {
+          "City": "Attingal",
+          "RTO_Code": ["KL16"]
+        },
+        {
+          "City": "Muvattupuzha",
+          "RTO_Code": ["KL17"]
+        },
+        {
+          "City": "Vadakara",
+          "RTO_Code": ["KL18"]
+        },
+        {
+          "City": "Neyyattinkara",
+          "RTO_Code": ["KL20"]
+        },
+        {
+          "City": "Nedumangad",
+          "RTO_Code": ["KL21"]
+        },
+        {
+          "City": "Karunagapally",
+          "RTO_Code": ["KL23"]
+        },
+        {
+          "City": "Kottarakara",
+          "RTO_Code": ["KL24"]
+        },
+        {
+          "City": "Punalur",
+          "RTO_Code": ["KL25"]
+        },
+        {
+          "City": "Kerala",
+          "RTO_Code": ["KL26"]
+        },
+        {
+          "City": "Tiruvalla",
+          "RTO_Code": ["KL27"]
+        },
+        {
+          "City": "Mallappally",
+          "RTO_Code": ["KL28"]
+        },
+        {
+          "City": "Kayamkulam",
+          "RTO_Code": ["KL29"]
+        },
+        {
+          "City": "Chengannur",
+          "RTO_Code": ["KL30"]
+        },
+        {
+          "City": "Mavelikara",
+          "RTO_Code": ["KL31"]
+        },
+        {
+          "City": "Cherthala",
+          "RTO_Code": ["KL32"]
+        },
+        {
+          "City": "Changanassery",
+          "RTO_Code": ["KL33"]
+        },
+        {
+          "City": "Kanjirapally",
+          "RTO_Code": ["KL34"]
+        },
+        {
+          "City": "Palai",
+          "RTO_Code": ["KL35"]
+        },
+        {
+          "City": "Vaikom",
+          "RTO_Code": ["KL36"]
+        },
+        {
+          "City": "Thodupuzha",
+          "RTO_Code": ["KL38"]
+        },
+        {
+          "City": "Perumbavoor",
+          "RTO_Code": ["KL40"]
+        },
+        {
+          "City": "Aluva",
+          "RTO_Code": ["KL41"]
+        },
+        {
+          "City": "Cochin",
+          "RTO_Code": ["KL43", "KL63"]
+        },
+        {
+          "City": "Kothamangalam",
+          "RTO_Code": ["KL44"]
+        },
+        {
+          "City": "Irinjalakuda",
+          "RTO_Code": ["KL45"]
+        },
+        {
+          "City": "Ottapalam",
+          "RTO_Code": ["KL51"]
+        },
+        {
+          "City": "Perinthalmanna",
+          "RTO_Code": ["KL53"]
+        },
+        {
+          "City": "Ponani",
+          "RTO_Code": ["KL54"]
+        },
+        {
+          "City": "Tirur",
+          "RTO_Code": ["KL55"]
+        },
+        {
+          "City": "Thalassery",
+          "RTO_Code": ["KL58"]
+        },
+        {
+          "City": "Taliparamba",
+          "RTO_Code": ["KL59"]
+        },
+        {
+          "City": "Kanhangad",
+          "RTO_Code": ["KL60"]
+        },
+        {
+          "City": "Tirurangadi",
+          "RTO_Code": ["KL65"]
+        },
+        {
+          "City": "Kuttanadu",
+          "RTO_Code": ["KL66"]
+        },
+        {
+          "City": "Uzhavoor",
+          "RTO_Code": ["KL67"]
+        },
+        {
+          "City": "Devikulam",
+          "RTO_Code": ["KL68"]
+        },
+        {
+          "City": "Udumbanchola",
+          "RTO_Code": ["KL69"]
+        },
+        {
+          "City": "Chittur",
+          "RTO_Code": ["KL70"]
+        },
+        {
+          "City": "Nilambur",
+          "RTO_Code": ["KL71"]
+        },
+        {
+          "City": "Mananthavady",
+          "RTO_Code": ["KL72"]
+        },
+        {
+          "City": "Sulthan Bathery",
+          "RTO_Code": ["KL73"]
+        },
+        {
+          "City": "Kattakkada",
+          "RTO_Code": ["KL74"]
+        },
+        {
+          "City": "Thriprayar",
+          "RTO_Code": ["KL75"]
+        },
+        {
+          "City": "Nanmanda",
+          "RTO_Code": ["KL76"]
+        },
+        {
+          "City": "Perambra",
+          "RTO_Code": ["KL77"]
+        },
+        {
+          "City": "Iritty",
+          "RTO_Code": ["KL78"]
+        },
+        {
+          "City": "Vellarikundu",
+          "RTO_Code": ["KL79"]
+        },
+        {
+          "City": "Pathanapuram",
+          "RTO_Code": ["KL80"]
+        },
+        {
+          "City": "Varkala",
+          "RTO_Code": ["KL81"]
+        },
+        {
+          "City": "Chadayamangalam",
+          "RTO_Code": ["KL82"]
+        },
+        {
+          "City": "Konni",
+          "RTO_Code": ["KL83"]
+        },
+        {
+          "City": "Kondotty",
+          "RTO_Code": ["KL84"]
+        },
+        {
+          "City": "Ramanattukara",
+          "RTO_Code": ["KL85"]
+        },
+        {
+          "City": "Payyanur",
+          "RTO_Code": ["KL86"]
+        }
+      ]
+}, 
+{
+    "State": "Maharashtra", 
+    "RTO_CODE": "MH", 
+"RTO_Cities": [
+    {
+      "City": "Mumbai",
+      "RTO_Code": ["MH01", "MH02", "MH03", "MH47"]
+    },
+    {
+      "City": "Thane",
+      "RTO_Code": ["MH04", "MH05", "MH48"]
+    },
+    {
+      "City": "Pen",
+      "RTO_Code": ["MH06"]
+    },
+    {
+      "City": "Sindhudurg",
+      "RTO_Code": ["MH07"]
+    },
+    {
+      "City": "Ratnagiri",
+      "RTO_Code": ["MH08"]
+    },
+    {
+      "City": "Kolhapur",
+      "RTO_Code": ["MH09"]
+    },
+    {
+      "City": "Sangli",
+      "RTO_Code": ["MH10"]
+    },
+    {
+      "City": "Satara",
+      "RTO_Code": ["MH11"]
+    },
+    {
+      "City": "Pune",
+      "RTO_Code": ["MH12"]
+    },
+    {
+      "City": "Solapur",
+      "RTO_Code": ["MH13", "MH45"]
+    },
+    {
+      "City": "Pimpri Chinchwad",
+      "RTO_Code": ["MH14"]
+    },
+    {
+      "City": "Nashik",
+      "RTO_Code": ["MH15", "MH51"]
+    },
+    {
+      "City": "Ahmed Nagar",
+      "RTO_Code": ["MH16"]
+    },
+    {
+      "City": "Shrirampur",
+      "RTO_Code": ["MH17"]
+    },
+    {
+      "City": "Dhule",
+      "RTO_Code": ["MH18"]
+    },
+    {
+      "City": "Jalgaon",
+      "RTO_Code": ["MH19"]
+    },
+    {
+      "City": "Aurangabad",
+      "RTO_Code": ["MH20"]
+    },
+    {
+      "City": "Jalna",
+      "RTO_Code": ["MH21"]
+    },
+    {
+      "City": "Parbhani",
+      "RTO_Code": ["MH22"]
+    },
+    {
+      "City": "Beed",
+      "RTO_Code": ["MH23", "MH44"]
+    },
+    {
+      "City": "Latur",
+      "RTO_Code": ["MH24"]
+    },
+    {
+      "City": "Osmanabad",
+      "RTO_Code": ["MH25"]
+    },
+    {
+      "City": "Nanded",
+      "RTO_Code": ["MH26"]
+    },
+    {
+      "City": "Amravati",
+      "RTO_Code": ["MH27"]
+    },
+    {
+      "City": "Buldhana",
+      "RTO_Code": ["MH28"]
+    },
+    {
+      "City": "Yavatmal",
+      "RTO_Code": ["MH29"]
+    },
+    {
+      "City": "Akola",
+      "RTO_Code": ["MH30"]
+    },
+    {
+      "City": "Nagpur",
+      "RTO_Code": ["MH31"]
+    },
+    {
+      "City": "Wardha",
+      "RTO_Code": ["MH32"]
+    },
+    {
+      "City": "Gadchiroli",
+      "RTO_Code": ["MH33"]
+    },
+    {
+      "City": "Chandrapur",
+      "RTO_Code": ["MH34"]
+    },
+    {
+      "City": "Gondia",
+      "RTO_Code": ["MH35"]
+    },
+    {
+      "City": "Bhandara",
+      "RTO_Code": ["MH36"]
+    },
+    {
+      "City": "Washim",
+      "RTO_Code": ["MH37"]
+    },
+    {
+      "City": "Hingoli",
+      "RTO_Code": ["MH38"]
+    },
+    {
+      "City": "Nandurbar",
+      "RTO_Code": ["MH39"]
+    },
+    {
+      "City": "Wadi",
+      "RTO_Code": ["MH40"]
+    },
+    {
+      "City": "Malegaon",
+      "RTO_Code": ["MH41"]
+    },
+    {
+      "City": "Baramati",
+      "RTO_Code": ["MH42"]
+    },
+    {
+      "City": "Navi Mumbai",
+      "RTO_Code": ["MH43"]
+    },
+    {
+      "City": "Panvel",
+      "RTO_Code": ["MH46"]
+    },
+    {
+      "City": "Nagpur East",
+      "RTO_Code": ["MH49"]
+    },
+    {
+      "City": "Karad",
+      "RTO_Code": ["MH50"]
+    }
+  ]
+}, 
+{
+    "State": "Manipur", 
+    "RTO_CODE": "MN", 
+    "RTO_Cities": [
+        {
+          "City": "Imphal",
+          "RTO_Code": ["MN01"]
+        },
+        {
+          "City": "Churachandpur",
+          "RTO_Code": ["MN02"]
+        },
+        {
+          "City": "Thoubal",
+          "RTO_Code": ["MN03"]
+        },
+        {
+          "City": "Bishnupur",
+          "RTO_Code": ["MN04"]
+        },
+        {
+          "City": "Senapati",
+          "RTO_Code": ["MN05"]
+        },
+        {
+          "City": "Ukhrul",
+          "RTO_Code": ["MN06"]
+        },
+        {
+          "City": "Tamenglong",
+          "RTO_Code": ["MN07"]
+        },
+        {
+          "City": "Chandel",
+          "RTO_Code": ["MN08"]
+        },
+        {
+          "City": "Jiribam",
+          "RTO_Code": ["MN09"]
+        }
+      ]
+}, 
+{
+    "State": "Meghalaya", 
+    "RTO_CODE": "ML", 
+    "RTO_Cities": [
+        {
+          "City": "Shillong",
+          "RTO_Code": ["ML01", "ML02", "ML03", "ML10"]
+        },
+        {
+          "City": "Jaintia Hills",
+          "RTO_Code": ["ML04"]
+        },
+        {
+          "City": "East Khasi Hills",
+          "RTO_Code": ["ML05"]
+        },
+        {
+          "City": "West Khasi Hills",
+          "RTO_Code": ["ML06"]
+        },
+        {
+          "City": "East Garo Hills",
+          "RTO_Code": ["ML07"]
+        },
+        {
+          "City": "West Garo Hills",
+          "RTO_Code": ["ML08"]
+        },
+        {
+          "City": "South Garo Hills",
+          "RTO_Code": ["ML09"]
+        },
+        {
+          "City": "Khliehriat",
+          "RTO_Code": ["ML11"]
+        },
+        {
+          "City": "South West Khasi Hills",
+          "RTO_Code": ["ML12"]
+        },
+        {
+          "City": "Resubelpara",
+          "RTO_Code": ["ML13"]
+        },
+        {
+          "City": "South West Garo Hills",
+          "RTO_Code": ["ML14"]
+        }
+      ]
+}, 
+{
+    "State": "Mizoram", 
+    "RTO_CODE": "MZ", 
+    "RTO_Cities": [
+        {
+          "City": "Aizawl",
+          "RTO_Code": ["MZ01", "MZ03", "MZ08"]
+        },
+        {
+          "City": "Lunglei",
+          "RTO_Code": ["MZ02"]
+        },
+        {
+          "City": "Champhai",
+          "RTO_Code": ["MZ04"]
+        },
+        {
+          "City": "Kolasib",
+          "RTO_Code": ["MZ05"]
+        },
+        {
+          "City": "Serchhip",
+          "RTO_Code": ["MZ06"]
+        },
+        {
+          "City": "Lawngtlai",
+          "RTO_Code": ["MZ07"]
+        },
+        {
+          "City": "Rural Aizawl",
+          "RTO_Code": ["MZ09"]
+        }
+      ]
+}, 
+{
+    "State": "Nagaland", 
+    "RTO_CODE": "NL", 
+    "RTO_Cities": [
+        {
+          "City": "Kohima",
+          "RTO_Code": ["NL01", "NL06"]
+        },
+        {
+          "City": "Mokokchung",
+          "RTO_Code": ["NL02"]
+        },
+        {
+          "City": "Tuensang",
+          "RTO_Code": ["NL03"]
+        },
+        {
+          "City": "Mon",
+          "RTO_Code": ["NL04"]
+        },
+        {
+          "City": "Wokha",
+          "RTO_Code": ["NL05"]
+        },
+        {
+          "City": "Dimapur",
+          "RTO_Code": ["NL07"]
+        },
+        {
+          "City": "Phek",
+          "RTO_Code": ["NL08"]
+        }
+      ]
+}, 
+{
+    "State": "Odisha", 
+    "RTO_CODE": "OD", 
+    "RTO_Cities": [
+        {
+          "City": "Balasore",
+          "RTO_Code": ["OD01"]
+        },
+        {
+          "City": "Bhubaneshwar",
+          "RTO_Code": ["OD02"]
+        },
+        {
+          "City": "Bolangir",
+          "RTO_Code": ["OD03"]
+        },
+        {
+          "City": "Chandikhol",
+          "RTO_Code": ["OD04"]
+        },
+        {
+          "City": "Cuttack",
+          "RTO_Code": ["OD05"]
+        },
+        {
+          "City": "Dhenkanal",
+          "RTO_Code": ["OD06"]
+        }
+      ]
+}, 
+{
+    "State": "Sikkim", 
+    "RTO_CODE": "SK", 
+    "RTO_Cities": [
+        {
+          "City": "Gangtok",
+          "RTO_Code": ["SK01", "SK02", "SK04", "SK05", "SK06"]
+        },
+        {
+          "City": "Sikkim",
+          "RTO_Code": ["SK03", "SK07"]
+        },
+        {
+          "City": "Singtam",
+          "RTO_Code": ["SK08"]
+        }
+      ]
+}, 
+{
+    "State": "Tamil Nadu", 
+    "RTO_CODE": "TN", 
+    "RTO_Cities": [
+        {
+          "City": "Chennai",
+          "RTO_Code": ["TN01", "TN03", "TN04", "TN05", "TN06", "TN07", "TN09", "TN10", "TN14", "TN18"]
+        },
+        {
+          "City": "Anna Nagar",
+          "RTO_Code": ["TN02"]
+        },
+        {
+          "City": "Tambaram",
+          "RTO_Code": ["TN11"]
+        },
+        {
+          "City": "Poonamallee",
+          "RTO_Code": ["TN12"]
+        },
+        {
+          "City": "Ambattur",
+          "RTO_Code": ["TN13"]
+        },
+        {
+          "City": "Ulundurpet",
+          "RTO_Code": ["TN15"]
+        },
+        {
+          "City": "Tindivanam",
+          "RTO_Code": ["TN16"]
+        },
+        {
+          "City": "Chengalpattu",
+          "RTO_Code": ["TN19"]
+        },
+        {
+          "City": "Tiruvallur",
+          "RTO_Code": ["TN20"]
+        },
+        {
+          "City": "Kanchipuram",
+          "RTO_Code": ["TN21", "TN22"]
+        },
+        {
+          "City": "Vellore",
+          "RTO_Code": ["TN23", "TN88"]
+        },
+        {
+          "City": "Krishnagiri",
+          "RTO_Code": ["TN24"]
+        },
+        {
+          "City": "Tiruvannamalai",
+          "RTO_Code": ["TN25"]
+        },
+        {
+          "City": "Salem",
+          "RTO_Code": ["TN27", "TN30", "TN52", "TN54"]
+        },
+        {
+          "City": "Namakkal",
+          "RTO_Code": ["TN28", "TN34"]
+        },
+        {
+          "City": "Dharmapuri",
+          "RTO_Code": ["TN29"]
+        },
+        {
+          "City": "Cuddalore",
+          "RTO_Code": ["TN31"]
+        },
+        {
+          "City": "Villupuram",
+          "RTO_Code": ["TN32"]
+        },
+        {
+          "City": "Erode",
+          "RTO_Code": ["TN33", "TN56"]
+        },
+        {
+          "City": "Bhavani",
+          "RTO_Code": ["TN36"]
+        },
+        {
+          "City": "Coimbatore",
+          "RTO_Code": ["TN37", "TN38", "TN66", "TN99"]
+        },
+        {
+          "City": "Tiruppur",
+          "RTO_Code": ["TN39"]
+        },
+        {
+          "City": "Mettupalayam",
+          "RTO_Code": ["TN40"]
+        },
+        {
+          "City": "Kulittalai",
+          "RTO_Code": ["TN41"]
+        },
+        {
+          "City": "Tirupur",
+          "RTO_Code": ["TN42"]
+        },
+        {
+          "City": "Udagamandalam",
+          "RTO_Code": ["TN43"]
+        },
+        {
+          "City": "Tiruchirappalli",
+          "RTO_Code": ["TN45", "TN48"]
+        },
+        {
+          "City": "Perambalur",
+          "RTO_Code": ["TN46"]
+        },
+        {
+          "City": "Karur",
+          "RTO_Code": ["TN47"]
+        },
+        {
+          "City": "Srirangam",
+          "RTO_Code": ["TN48"]
+        },
+        {
+          "City": "Thanjavur",
+          "RTO_Code": ["TN49"]
+        },
+        {
+          "City": "Tiruvarur",
+          "RTO_Code": ["TN50"]
+        },
+        {
+          "City": "Nagapattinam",
+          "RTO_Code": ["TN51"]
+        },
+        {
+          "City": "Pudukottai",
+          "RTO_Code": ["TN55"]
+        },
+        {
+          "City": "Dindigul",
+          "RTO_Code": ["TN57"]
+        },
+        {
+          "City": "Madurai",
+          "RTO_Code": ["TN58", "TN59", "TN64"]
+        },
+        {
+          "City": "Periyakulam",
+          "RTO_Code": ["TN60"]
+        },
+        {
+          "City": "Ariyalur",
+          "RTO_Code": ["TN61"]
+        },
+        {
+          "City": "Sivaganga",
+          "RTO_Code": ["TN63"]
+        },
+        {
+          "City": "Ramanathapuram",
+          "RTO_Code": ["TN65"]
+        },
+        {
+          "City": "Virudhunagar",
+          "RTO_Code": ["TN67"]
+        },
+        {
+          "City": "Kumbakonam",
+          "RTO_Code": ["TN68"]
+        },
+        {
+          "City": "Kovilpatti",
+          "RTO_Code": ["TN69", "TN96"]
+        },
+        {
+          "City": "Hosur",
+          "RTO_Code": ["TN70"]
+        },
+        {
+          "City": "Tirunelveli",
+          "RTO_Code": ["TN72"]
+        },
+        {
+          "City": "Ranipet",
+          "RTO_Code": ["TN73"]
+        },
+        {
+          "City": "Nagercoil",
+          "RTO_Code": ["TN74"]
+        },
+        {
+          "City": "Kanyakumari",
+          "RTO_Code": ["TN75"]
+        },
+        {
+          "City": "Ambasamudram",
+          "RTO_Code": ["TN76"]
+        },
+        {
+          "City": "Attur",
+          "RTO_Code": ["TN77"]
+        },
+        {
+          "City": "Dharapuram",
+          "RTO_Code": ["TN78"]
+        },
+        {
+          "City": "Sankarankovil",
+          "RTO_Code": ["TN79"]
+        },
+        {
+          "City": "Tiruchirapalli East",
+          "RTO_Code": ["TN81"]
+        },
+        {
+          "City": "Mayiladuthurai",
+          "RTO_Code": ["TN82"]
+        },
+        {
+          "City": "Tirupattur",
+          "RTO_Code": ["TN83"]
+        },
+        {
+          "City": "Srivilliputhur",
+          "RTO_Code": ["TN84"]
+        },
+        {
+          "City": "Kundrathur",
+          "RTO_Code": ["TN85"]
+        },
+        {
+          "City": "Erode West",
+          "RTO_Code": ["TN86"]
+        },
+        {
+          "City": "Sriperumbudur",
+          "RTO_Code": ["TN87"]
+        },
+        {
+          "City": "Salem South",
+          "RTO_Code": ["TN90"]
+        },
+        {
+          "City": "Chidambaram",
+          "RTO_Code": ["TN91"]
+        },
+        {
+          "City": "Thiruchendur",
+          "RTO_Code": ["TN92"]
+        },
+        {
+          "City": "Mettur",
+          "RTO_Code": ["TN93"]
+        },
+        {
+          "City": "Palani",
+          "RTO_Code": ["TN94"]
+        },
+        {
+          "City": "Sivakasi",
+          "RTO_Code": ["TN95"]
+        },
+        {
+          "City": "Arani",
+          "RTO_Code": ["TN97"]
+        }
+      ]    
+}, 
+{
+    "State": "Telangana", 
+    "RTO_CODE": "TG", 
+    "RTO_Cities": [
+        {
+          "City": "Adilabad",
+          "RTO_Code": ["AP01", "TG01", "TS01"]
+        },
+        {
+          "City": "Chittoor",
+          "RTO_Code": ["AP03"]
+        },
+        {
+          "City": "Hyderabad",
+          "RTO_Code": ["AP09", "AP11", "AP12", "AP13", "TS09", "TS10", "TS11", "TS12", "TS13", "TS14"]
+        },
+        {
+          "City": "Karimnagar",
+          "RTO_Code": ["AP14", "TG02", "TS02"]
+        },
+        {
+          "City": "Jagtial",
+          "RTO_Code": ["AP15", "TS21"]
+        },
+        {
+          "City": "Khammam",
+          "RTO_Code": ["AP20", "TG04", "TS04"]
+        },
+        {
+          "City": "Gadwal",
+          "RTO_Code": ["AP22", "TS33"]
+        },
+        {
+          "City": "Medak",
+          "RTO_Code": ["AP23", "TG35", "TS15", "TS35"]
+        },
+        {
+          "City": "Bhongir",
+          "RTO_Code": ["AP24", "TS30"]
+        },
+        {
+          "City": "Kamareddy",
+          "RTO_Code": ["AP25", "TG17", "TS17"]
+        },
+        {
+          "City": "Rangareddy",
+          "RTO_Code": ["AP28", "TG07"]
+        },
+        {
+          "City": "Jangaon",
+          "RTO_Code": ["AP36", "TS27"]
+        },
+        {
+          "City": "Huzurabad",
+          "RTO_Code": ["TG02"]
+        },
+        {
+          "City": "Hanumakonda",
+          "RTO_Code": ["TG03"]
+        },
+        {
+          "City": "Sattupalli",
+          "RTO_Code": ["TG04"]
+        },
+        {
+          "City": "Wyra",
+          "RTO_Code": ["TG04"]
+        },
+        {
+          "City": "Miryalaguda",
+          "RTO_Code": ["TG05"]
+        },
+        {
+          "City": "Nalgonda",
+          "RTO_Code": ["TG05", "TS05"]
+        },
+        {
+          "City": "Mahaboobnagar",
+          "RTO_Code": ["TG06"]
+        },
+        {
+          "City": "Ibrahimpatnam",
+          "RTO_Code": ["TG07"]
+        },
+        {
+          "City": "Shadnagar",
+          "RTO_Code": ["TG07"]
+        },
+        {
+          "City": "Kukatpally",
+          "RTO_Code": ["TG08"]
+        },
+        {
+          "City": "Medchal",
+          "RTO_Code": ["TG08"]
+        },
+        {
+          "City": "Uppal",
+          "RTO_Code": ["TG08"]
+        },
+        {
+          "City": "Hyderabad-NZ",
+          "RTO_Code": ["TG10"]
+        },
+        {
+          "City": "Hyderabad-SZ",
+          "RTO_Code": ["TG12"]
+        },
+        {
+          "City": "Patancheruvu",
+          "RTO_Code": ["TG15"]
+        },
+        {
+          "City": "Sangareddy",
+          "RTO_Code": ["TG15"]
+        },
+        {
+          "City": "Zahirabad",
+          "RTO_Code": ["TG15"]
+        },
+        {
+          "City": "Bhodan",
+          "RTO_Code": ["TG16"]
+        },
+        {
+          "City": "Nizamabad",
+          "RTO_Code": ["TG16", "TS16"]
+        },
+        {
+          "City": "Armoor",
+          "RTO_Code": ["TG16"]
+        },
+        {
+          "City": "Nirmal",
+          "RTO_Code": ["TG18", "TS18"]
+        },
+        {
+          "City": "Mancherial",
+          "RTO_Code": ["TG19", "TS19"]
+        },
+        {
+          "City": "Komrambheem",
+          "RTO_Code": ["TG20"]
+        },
+        {
+          "City": "Jagityal",
+          "RTO_Code": ["TG21"]
+        },
+        {
+          "City": "Korutla",
+          "RTO_Code": ["TG21"]
+        },
+        {
+          "City": "Peddapalli",
+          "RTO_Code": ["TG22", "TS22"]
+        },
+        {
+          "City": "Ramagundam",
+          "RTO_Code": ["TG22"]
+        },
+        {
+          "City": "Rajanna",
+          "RTO_Code": ["TG23"]
+        },
+        {
+          "City": "Warangal",
+          "RTO_Code": ["TG24", "TS03", "TS24"]
+        },
+        {
+          "City": "Jayashankar",
+          "RTO_Code": ["TG25"]
+        },
+        {
+          "City": "Mahabubabad",
+          "RTO_Code": ["TG26"]
+        },
+        {
+          "City": "Jangoan",
+          "RTO_Code": ["TG27"]
+        },
+        {
+          "City": "Bhadrachalam",
+          "RTO_Code": ["TG28"]
+        },
+        {
+          "City": "Kodad",
+          "RTO_Code": ["TG29"]
+        },
+        {
+          "City": "Suryapet",
+          "RTO_Code": ["TG29", "TS29"]
+        },
+        {
+          "City": "Yadadri",
+          "RTO_Code": ["TG30"]
+        },
+        {
+          "City": "Kalwakurthy",
+          "RTO_Code": ["TG31"]
+        },
+        {
+          "City": "Nagarkurnool",
+          "RTO_Code": ["TG31", "TS31"]
+        },
+        {
+          "City": "Pebbair",
+          "RTO_Code": ["TG32"]
+        },
+        {
+          "City": "Wanaparthy",
+          "RTO_Code": ["TG32", "TS32"]
+        },
+        {
+          "City": "Jogulamba",
+          "RTO_Code": ["TG33"]
+        },
+        {
+          "City": "Pargi",
+          "RTO_Code": ["TG34"]
+        },
+        {
+          "City": "Vikarabad",
+          "RTO_Code": ["TG34", "TS34"]
+        },
+        {
+          "City": "Siddipet",
+          "RTO_Code": ["TG36", "TS36"]
+        },
+        {
+          "City": "Mulugu",
+          "RTO_Code": ["TG37"]
+        },
+        {
+          "City": "Narayanpet",
+          "RTO_Code": ["TG38", "TS38"]
+        },
+        {
+          "City": "Mahbubnagar",
+          "RTO_Code": ["TS06"]
+        },
+        {
+          "City": "Attapur",
+          "RTO_Code": ["TS07"]
+        },
+        {
+          "City": "Uppal Kalan",
+          "RTO_Code": ["TS08"]
+        },
+        {
+          "City": "Asifabad",
+          "RTO_Code": ["TS20"]
+        },
+        {
+          "City": "Sircilla",
+          "RTO_Code": ["TS23"]
+        },
+        {
+          "City": "Bhupalpalle",
+          "RTO_Code": ["TS25"]
+        },
+        {
+          "City": "Mahbubabad",
+          "RTO_Code": ["TS26"]
+        },
+        {
+          "City": "Kothagudem",
+          "RTO_Code": ["TS28"]
+        }
+      ]
+}, 
+{
+    "State": "Tripura", 
+    "RTO_CODE": "TR", 
+    "RTO_Cities": [
+        {
+          "City": "Agartala",
+          "RTO_Code": ["TR01", "TR03"]
+        },
+        {
+          "City": "Tripura",
+          "RTO_Code": ["TR02"]
+        },
+        {
+          "City": "Dhalai",
+          "RTO_Code": ["TR04"]
+        },
+        {
+          "City": "Ambassa",
+          "RTO_Code": ["TR05"]
+        },
+        {
+          "City": "Khowai",
+          "RTO_Code": ["TR06"]
+        },
+        {
+          "City": "Sepahijala",
+          "RTO_Code": ["TR07"]
+        },
+        {
+          "City": "Santirbazar",
+          "RTO_Code": ["TR08"]
+        }
+      ]
+}, 
+{
+    "State": "Uttarakhand", 
+    "RTO_CODE": "UK", 
+    "RTO_Cities": [
+        {
+          "City": "Almora",
+          "RTO_Code": ["UA01", "UK01", "UP01"]
+        },
+        {
+          "City": "Bageshwar",
+          "RTO_Code": ["UA02", "UK02"]
+        },
+        {
+          "City": "Champawat",
+          "RTO_Code": ["UA03", "UK03"]
+        },
+        {
+          "City": "Nainital",
+          "RTO_Code": ["UA04", "UK04", "UP02"]
+        },
+        {
+          "City": "Pithoragarh",
+          "RTO_Code": ["UA05", "UK05", "UP03"]
+        },
+        {
+          "City": "Udham Singh Nagar",
+          "RTO_Code": ["UA06", "UK06", "UP04"]
+        },
+        {
+          "City": "Dehradun",
+          "RTO_Code": ["UA07", "UK07"]
+        },
+        {
+          "City": "Haridwar",
+          "RTO_Code": ["UA08", "UK08", "UP10"]
+        },
+        {
+          "City": "Tehri",
+          "RTO_Code": ["UA09", "UK09", "UP08"]
+        },
+        {
+          "City": "Uttarkashi",
+          "RTO_Code": ["UA10", "UK10", "UP09"]
+        },
+        {
+          "City": "Chamoli",
+          "RTO_Code": ["UA11", "UK11", "UP05"]
+        },
+        {
+          "City": "Pauri",
+          "RTO_Code": ["UA12", "UK12", "UP06"]
+        },
+        {
+          "City": "Rudraprayag",
+          "RTO_Code": ["UA13", "UK13"]
+        },
+        {
+          "City": "Rishikesh",
+          "RTO_Code": ["UK14"]
+        },
+        {
+          "City": "Kotdwara",
+          "RTO_Code": ["UK15"]
+        },
+        {
+          "City": "Vikasnagar",
+          "RTO_Code": ["UK16"]
+        },
+        {
+          "City": "Roorkee",
+          "RTO_Code": ["UK17"]
+        },
+        {
+          "City": "Kashipur",
+          "RTO_Code": ["UK18"]
+        },
+        {
+          "City": "Ramnagar",
+          "RTO_Code": ["UK19"]
+        }
+      ]
+}, 
+{
+    "State": "West Bengal", 
+    "RTO_CODE": "WB", 
+    "RTO_Cities": [
+        {
+          "City": "Kolkata",
+          "RTO_Code": ["WB01", "WB02", "WB04", "WB05", "WB06", "WB07", "WB08", "WB09", "WB10"]
+        },
+        {
+          "City": "Barrackpore",
+          "RTO_Code": ["WB03", "WB23", "WB24"]
+        },
+        {
+          "City": "Barasat",
+          "RTO_Code": ["WB11", "WB15", "WB25", "WB26"]
+        },
+        {
+          "City": "Howrah",
+          "RTO_Code": ["WB12", "WB13", "WB14"]
+        },
+        {
+          "City": "Hooghly",
+          "RTO_Code": ["WB16", "WB17", "WB18"]
+        },
+        {
+          "City": "Alipore",
+          "RTO_Code": ["WB19", "WB22", "WB69", "WB70"]
+        },
+        {
+          "City": "South 24 Parganas",
+          "RTO_Code": ["WB20"]
+        },
+        {
+          "City": "Basirhat",
+          "RTO_Code": ["WB21"]
+        },
+        {
+          "City": "Bangaon",
+          "RTO_Code": ["WB27", "WB28"]
+        },
+        {
+          "City": "Tamluk",
+          "RTO_Code": ["WB29", "WB30"]
+        },
+        {
+          "City": "Contai",
+          "RTO_Code": ["WB31", "WB32"]
+        },
+        {
+          "City": "Midnapore",
+          "RTO_Code": ["WB33", "WB34", "WB36"]
+        },
+        {
+          "City": "Kharagpur",
+          "RTO_Code": ["WB35"]
+        },
+        {
+          "City": "Asansol",
+          "RTO_Code": ["WB37", "WB38", "WB44"]
+        },
+        {
+          "City": "Durgapur",
+          "RTO_Code": ["WB39", "WB40"]
+        },
+        {
+          "City": "Burdwan",
+          "RTO_Code": ["WB41", "WB42"]
+        },
+        {
+          "City": "Kalna",
+          "RTO_Code": ["WB43"]
+        },
+        {
+          "City": "Rampurhat",
+          "RTO_Code": ["WB45", "WB46"]
+        },
+        {
+          "City": "Bolpur",
+          "RTO_Code": ["WB47"]
+        },
+        {
+          "City": "Birbhum",
+          "RTO_Code": ["WB48", "WB53", "WB54"]
+        },
+        {
+          "City": "Jhargram",
+          "RTO_Code": ["WB49", "WB50"]
+        },
+        {
+          "City": "Nadia",
+          "RTO_Code": ["WB51", "WB52"]
+        },
+        {
+          "City": "Puruliya",
+          "RTO_Code": ["WB55", "WB56"]
+        },
+        {
+          "City": "Murshidabad",
+          "RTO_Code": ["WB57", "WB58", "WB94"]
+        },
+        {
+          "City": "North Dinajpur",
+          "RTO_Code": ["WB59", "WB60"]
+        },
+        {
+          "City": "Balurghat",
+          "RTO_Code": ["WB61", "WB62"]
+        },
+        {
+          "City": "Cooch Behar",
+          "RTO_Code": ["WB63", "WB64"]
+        },
+        {
+          "City": "Malda",
+          "RTO_Code": ["WB65", "WB66"]
+        },
+        {
+          "City": "Bankura",
+          "RTO_Code": ["WB67", "WB68"]
+        },
+        {
+          "City": "Jalpaiguri",
+          "RTO_Code": ["WB71", "WB72"]
+        },
+        {
+          "City": "Siliguri",
+          "RTO_Code": ["WB73", "WB74"]
+        },
+        {
+          "City": "Darjeeling",
+          "RTO_Code": ["WB76", "WB77"]
+        },
+        {
+          "City": "Kalimpong",
+          "RTO_Code": ["WB78", "WB79"]
+        },
+        {
+          "City": "Raghunathpur",
+          "RTO_Code": ["WB81", "WB82"]
+        },
+        {
+          "City": "Chanchal",
+          "RTO_Code": ["WB83", "WB84"]
+        },
+        {
+          "City": "Mathabhanga",
+          "RTO_Code": ["WB85", "WB86"]
+        },
+        {
+          "City": "Bishnupur",
+          "RTO_Code": ["WB87", "WB88"]
+        },
+        {
+          "City": "Kalyani",
+          "RTO_Code": ["WB89", "WB90"]
+        },
+        {
+          "City": "Islampur",
+          "RTO_Code": ["WB91", "WB92"]
+        },
+        {
+          "City": "Jangipur",
+          "RTO_Code": ["WB93"]
+        },
+        {
+          "City": "Baruipur",
+          "RTO_Code": ["WB95", "WB96"]
+        },
+        {
+          "City": "Diamond Harbour",
+          "RTO_Code": ["WB97", "WB98"]
+        }
+      ]
+}, 
+{
+    "State": "Jammu & Kashmir (J&K)", 
+    "RTO_CODE": "JK", 
+    "RTO_Cities": [
+        {
+          "City": "Srinagar",
+          "RTO_Code": ["JK01"]
+        },
+        {
+          "City": "Jammu",
+          "RTO_Code": ["JK02"]
+        },
+        {
+          "City": "Anantnag",
+          "RTO_Code": ["JK03", "JK05"]
+        },
+        {
+          "City": "Budgam",
+          "RTO_Code": ["JK04"]
+        },
+        {
+          "City": "Baramulla",
+          "RTO_Code": ["JK06"]
+        },
+        {
+          "City": "Kargil",
+          "RTO_Code": ["JK07"]
+        },
+        {
+          "City": "Kathua",
+          "RTO_Code": ["JK08"]
+        },
+        {
+          "City": "Kupwara",
+          "RTO_Code": ["JK09"]
+        },
+        {
+          "City": "Leh",
+          "RTO_Code": ["JK10"]
+        },
+        {
+          "City": "Rajouri",
+          "RTO_Code": ["JK11"]
+        },
+        {
+          "City": "Poonch",
+          "RTO_Code": ["JK12"]
+        },
+        {
+          "City": "Pulwama",
+          "RTO_Code": ["JK13"]
+        },
+        {
+          "City": "Udhampur",
+          "RTO_Code": ["JK14"]
+        },
+        {
+          "City": "Bandipora",
+          "RTO_Code": ["JK15"]
+        },
+        {
+          "City": "Ganderbal",
+          "RTO_Code": ["JK16"]
+        },
+        {
+          "City": "Kishtwar",
+          "RTO_Code": ["JK17"]
+        },
+        {
+          "City": "Kulgam",
+          "RTO_Code": ["JK18"]
+        },
+        {
+          "City": "Ramban",
+          "RTO_Code": ["JK19"]
+        },
+        {
+          "City": "Reasi",
+          "RTO_Code": ["JK20"]
+        },
+        {
+          "City": "Samba",
+          "RTO_Code": ["JK21"]
+        },
+        {
+          "City": "Shopian",
+          "RTO_Code": ["JK22"]
+        }
+      ]
+}, 
+{
+  "State": "Delhi", 
+  "RTO_CODE": "DL", 
+  "RTO_Cities": [
+    {
+      "City": "Delhi", 
+      "RTO_Code": [    "DL01",
+      "DL02",
+      "DL03",
+      "DL04",
+      "DL05",
+      "DL06",
+      "DL07",
+      "DL08",
+      "DL09",
+      "DL10",
+      "DL11",
+      "DL12",
+      "DL13",
+      "DL14"]
+    }
+  ]
+}, 
+{
+  "State": "Rajasthan", 
+  "RTO_CODE": "RJ", 
+  "RTO_Cities": [
+    {
+      "City": "Ajmer",
+      "RTO_Code": ["RJ01"]
+    },
+    {
+      "City": "Alwar",
+      "RTO_Code": ["RJ02", "RJ02"]
+    },
+    {
+      "City": "Banswara",
+      "RTO_Code": ["RJ03"]
+    },
+    {
+      "City": "Barmer",
+      "RTO_Code": ["RJ04"]
+    },
+    {
+      "City": "Bharatpur",
+      "RTO_Code": ["RJ05", "RJ05"]
+    },
+    {
+      "City": "Bhilwara",
+      "RTO_Code": ["RJ06"]
+    },
+    {
+      "City": "Bikaner",
+      "RTO_Code": ["RJ07"]
+    },
+    {
+      "City": "Bundi",
+      "RTO_Code": ["RJ08"]
+    },
+    {
+      "City": "Chittorgarh",
+      "RTO_Code": ["RJ09", "RJ38"]
+    },
+    {
+      "City": "Churu",
+      "RTO_Code": ["RJ10", "RJ10"]
+    },
+    {
+      "City": "Dholpur",
+      "RTO_Code": ["RJ11"]
+    },
+    {
+      "City": "Dungarpur",
+      "RTO_Code": ["RJ12"]
+    },
+    {
+      "City": "Ganganagar",
+      "RTO_Code": ["RJ13", "RJ13"]
+    },
+    {
+      "City": "Jaipur",
+      "RTO_Code": ["RJ14", "RJ14", "RJ14", "RJ60"]
+    },
+    {
+      "City": "Jaisalmer",
+      "RTO_Code": ["RJ15", "RJ15"]
+    },
+    {
+      "City": "Jalore",
+      "RTO_Code": ["RJ16", "RJ16"]
+    },
+    {
+      "City": "Jhalawar",
+      "RTO_Code": ["RJ17"]
+    },
+    {
+      "City": "Jhunjhunu",
+      "RTO_Code": ["RJ18", "RJ18"]
+    },
+    {
+      "City": "Jodhpur",
+      "RTO_Code": ["RJ19", "RJ19", "RJ19"]
+    },
+    {
+      "City": "Kota",
+      "RTO_Code": ["RJ20"]
+    },
+    {
+      "City": "Nagaur",
+      "RTO_Code": ["RJ21", "RJ21", "RJ21"]
+    },
+    {
+      "City": "Pali",
+      "RTO_Code": ["RJ22", "RJ22", "RJ22"]
+    },
+    {
+      "City": "Sikar",
+      "RTO_Code": ["RJ23", "RJ23", "RJ23"]
+    },
+    {
+      "City": "Sirohi",
+      "RTO_Code": ["RJ24"]
+    },
+    {
+      "City": "Sawai Madhopur",
+      "RTO_Code": ["RJ25", "RJ25"]
+    },
+    {
+      "City": "Tonk",
+      "RTO_Code": ["RJ26", "RJ26", "RJ26"]
+    },
+    {
+      "City": "Udaipur",
+      "RTO_Code": ["RJ27", "RJ27"]
+    },
+    {
+      "City": "Baran",
+      "RTO_Code": ["RJ28"]
+    },
+    {
+      "City": "Dausa",
+      "RTO_Code": ["RJ29"]
+    },
+    {
+      "City": "Rajsamand",
+      "RTO_Code": ["RJ30", "RJ30", "RJ30"]
+    },
+    {
+      "City": "Hanumangarh",
+      "RTO_Code": ["RJ31"]
+    },
+    {
+      "City": "Kotputli",
+      "RTO_Code": ["RJ32"]
+    },
+    {
+      "City": "Ramganj Mandi",
+      "RTO_Code": ["RJ33"]
+    },
+    {
+      "City": "Karauli",
+      "RTO_Code": ["RJ34", "RJ34"]
+    },
+    {
+      "City": "Pratapgarh",
+      "RTO_Code": ["RJ35"]
+    },
+    {
+      "City": "Beawar",
+      "RTO_Code": ["RJ36"]
+    },
+    {
+      "City": "Didwana",
+      "RTO_Code": ["RJ37", "RJ37", "RJ37"]
+    },
+    {
+      "City": "Balotra",
+      "RTO_Code": ["RJ39"]
+    },
+    {
+      "City": "Bhiwadi",
+      "RTO_Code": ["RJ40"]
+    },
+    {
+      "City": "Chomu",
+      "RTO_Code": ["RJ41"]
+    },
+    {
+      "City": "Kishangarh",
+      "RTO_Code": ["RJ42"]
+    },
+    {
+      "City": "Phalodi",
+      "RTO_Code": ["RJ43"]
+    },
+    {
+      "City": "Sujangarh",
+      "RTO_Code": ["RJ44"]
+    },
+    {
+      "City": "Jaipur North",
+      "RTO_Code": ["RJ45"]
+    },
+    {
+      "City": "Bhinmal",
+      "RTO_Code": ["RJ46"]
+    },
+    {
+      "City": "Dudu",
+      "RTO_Code": ["RJ47"]
+    },
+    {
+      "City": "Kekri",
+      "RTO_Code": ["RJ48"]
+    },
+    {
+      "City": "Nohar",
+      "RTO_Code": ["RJ49"]
+    },
+    {
+      "City": "Nokha",
+      "RTO_Code": ["RJ50"]
+    },
+    {
+      "City": "Shahpura",
+      "RTO_Code": ["RJ51", "RJ52"]
+    },
+    {
+      "City": "Khetri",
+      "RTO_Code": ["RJ53"]
+    },
+    {
+      "City": "Pipar",
+      "RTO_Code": ["RJ54"]
+    },
+    {
+      "City": "Pokhran",
+      "RTO_Code": ["RJ55"]
+    },
+    {
+      "City": "Sadulshahar",
+      "RTO_Code": ["RJ56"]
+    },
+    {
+      "City": "Sumerpur",
+      "RTO_Code": ["RJ57"]
+    },
+    {
+      "City": "Salumber",
+      "RTO_Code": ["RJ58"]
+    },
+    {
+      "City": "Shahpura (Jaipur)",
+      "RTO_Code": ["RJ59"]
+    }
+  ]
+}, 
+{
+  "State": "Punjab", 
+  "RTO_CODE": "PB", 
+  "RTO_Cities": [
+    {
+      "City": "Amritsar",
+      "RTO_Code": ["PB02", "PB17", "PB89"]
+    },
+    {
+      "City": "Bathinda",
+      "RTO_Code": ["PB03", "PB45", "PB51"]
+    },
+    {
+      "City": "Faridkot",
+      "RTO_Code": ["PB04"]
+    },
+    {
+      "City": "Ferozepur",
+      "RTO_Code": ["PB05"]
+    },
+    {
+      "City": "Gurdaspur",
+      "RTO_Code": ["PB06"]
+    },
+    {
+      "City": "Hoshiarpur",
+      "RTO_Code": ["PB07", "PB24"]
+    },
+    {
+      "City": "Jalandhar",
+      "RTO_Code": ["PB08", "PB37", "PB90"]
+    },
+    {
+      "City": "Kapurthala",
+      "RTO_Code": ["PB09", "PB57"]
+    },
+    {
+      "City": "Ludhiana",
+      "RTO_Code": ["PB10", "PB91"]
+    },
+    {
+      "City": "Patiala",
+      "RTO_Code": ["PB11"]
+    },
+    {
+      "City": "Ropar",
+      "RTO_Code": ["PB12", "PB16", "PB71"]
+    },
+    {
+      "City": "Sangrur",
+      "RTO_Code": ["PB13", "PB64"]
+    },
+    {
+      "City": "Ajnala",
+      "RTO_Code": ["PB14"]
+    },
+    {
+      "City": "Abohar",
+      "RTO_Code": ["PB15"]
+    },
+    {
+      "City": "Batala",
+      "RTO_Code": ["PB18"]
+    },
+    {
+      "City": "Barnala",
+      "RTO_Code": ["PB19"]
+    },
+    {
+      "City": "Nawanshahr",
+      "RTO_Code": ["PB20", "PB32"]
+    },
+    {
+      "City": "Dasuya",
+      "RTO_Code": ["PB21"]
+    },
+    {
+      "City": "Fazilka",
+      "RTO_Code": ["PB22"]
+    },
+    {
+      "City": "Fatehgarh Sahib",
+      "RTO_Code": ["PB23", "PB52"]
+    },
+    {
+      "City": "Jagraon",
+      "RTO_Code": ["PB25"]
+    },
+    {
+      "City": "Khanna",
+      "RTO_Code": ["PB26"]
+    },
+    {
+      "City": "Kharar",
+      "RTO_Code": ["PB27"]
+    },
+    {
+      "City": "Malerkotla",
+      "RTO_Code": ["PB28"]
+    },
+    {
+      "City": "Moga",
+      "RTO_Code": ["PB29", "PB69"]
+    },
+    {
+      "City": "Muktsar",
+      "RTO_Code": ["PB30"]
+    },
+    {
+      "City": "Mansa",
+      "RTO_Code": ["PB31"]
+    },
+    {
+      "City": "Nakodar",
+      "RTO_Code": ["PB33"]
+    },
+    {
+      "City": "Nabha",
+      "RTO_Code": ["PB34"]
+    },
+    {
+      "City": "Pathankot",
+      "RTO_Code": ["PB35"]
+    },
+    {
+      "City": "Phagwara",
+      "RTO_Code": ["PB36"]
+    },
+    {
+      "City": "Patti",
+      "RTO_Code": ["PB38"]
+    },
+    {
+      "City": "Rajpura",
+      "RTO_Code": ["PB39"]
+    },
+    {
+      "City": "Rampura Phul",
+      "RTO_Code": ["PB40"]
+    },
+    {
+      "City": "Sultanpur Lodhi",
+      "RTO_Code": ["PB41"]
+    },
+    {
+      "City": "Samana",
+      "RTO_Code": ["PB42"]
+    },
+    {
+      "City": "Samrala",
+      "RTO_Code": ["PB43"]
+    },
+    {
+      "City": "Sunam",
+      "RTO_Code": ["PB44"]
+    },
+    {
+      "City": "Tarn Taran",
+      "RTO_Code": ["PB46"]
+    },
+    {
+      "City": "Zira",
+      "RTO_Code": ["PB47"]
+    },
+    {
+      "City": "Amloh",
+      "RTO_Code": ["PB48"]
+    },
+    {
+      "City": "Khamanon",
+      "RTO_Code": ["PB49"]
+    },
+    {
+      "City": "Budhlada",
+      "RTO_Code": ["PB50"]
+    },
+    {
+      "City": "Malout",
+      "RTO_Code": ["PB53"]
+    },
+    {
+      "City": "Mukerian",
+      "RTO_Code": ["PB54"]
+    },
+    {
+      "City": "Payal",
+      "RTO_Code": ["PB55"]
+    },
+    {
+      "City": "Raikot",
+      "RTO_Code": ["PB56"]
+    },
+    {
+      "City": "Dera Baba Nanak",
+      "RTO_Code": ["PB58"]
+    },
+    {
+      "City": "Dhuri",
+      "RTO_Code": ["PB59"]
+    },
+    {
+      "City": "Gidderbaha",
+      "RTO_Code": ["PB60"]
+    },
+    {
+      "City": "Jalalabad",
+      "RTO_Code": ["PB61"]
+    },
+    {
+      "City": "Jaitu",
+      "RTO_Code": ["PB62"]
+    },
+    {
+      "City": "Khadoor Sahib",
+      "RTO_Code": ["PB63"]
+    },
+    {
+      "City": "Mohali",
+      "RTO_Code": ["PB65", "PB70"]
+    },
+    {
+      "City": "Nihal Singh Wala",
+      "RTO_Code": ["PB66"]
+    },
+    {
+      "City": "Shahkot",
+      "RTO_Code": ["PB67"]
+    },
+    {
+      "City": "Dhar Kalan",
+      "RTO_Code": ["PB68"]
+    },
+    {
+      "City": "Pattran",
+      "RTO_Code": ["PB72"]
+    },
+    {
+      "City": "Tappa Mandi",
+      "RTO_Code": ["PB73"]
+    },
+    {
+      "City": "Nangal",
+      "RTO_Code": ["PB74"]
+    },
+    {
+      "City": "Lehragaga",
+      "RTO_Code": ["PB75"]
+    },
+    {
+      "City": "Ahmedgarh",
+      "RTO_Code": ["PB76", "PB82"]
+    },
+    {
+      "City": "Guru Har Sahai",
+      "RTO_Code": ["PB77"]
+    },
+    {
+      "City": "Banga",
+      "RTO_Code": ["PB78"]
+    },
+    {
+      "City": "Kotkapura",
+      "RTO_Code": ["PB79"]
+    },
+    {
+      "City": "Maur",
+      "RTO_Code": ["PB80"]
+    },
+    {
+      "City": "Majitha",
+      "RTO_Code": ["PB81"]
+    },
+    {
+      "City": "Dudhan Sadhan",
+      "RTO_Code": ["PB83"]
+    },
+    {
+      "City": "Bhawanigarh",
+      "RTO_Code": ["PB84"]
+    },
+    {
+      "City": "Kalanaur",
+      "RTO_Code": ["PB85"]
+    },
+    {
+      "City": "Dirba",
+      "RTO_Code": ["PB86"]
+    },
+    {
+      "City": "Morinda",
+      "RTO_Code": ["PB87"]
+    },
+    {
+      "City": "Bhikhiwind",
+      "RTO_Code": ["PB88"]
+    },
+    {
+      "City": "Amargarh",
+      "RTO_Code": ["PB92"]
+    },
+    {
+      "City": "Dinanagar",
+      "RTO_Code": ["PB99"]
+    }
+  ]
+}, 
+{
+  "State": "Madhya Pradesh", 
+  "RTO_CODE": "MP", 
+  "RTO_Cities": [
+    {
+      "City": "Bhopal",
+      "RTO_Code": ["MP04"]
+    },
+    {
+      "City": "Hoshangabad",
+      "RTO_Code": ["MP05"]
+    },
+    {
+      "City": "Morena",
+      "RTO_Code": ["MP06"]
+    },
+    {
+      "City": "Gwalior",
+      "RTO_Code": ["MP07"]
+    },
+    {
+      "City": "Guna",
+      "RTO_Code": ["MP08"]
+    },
+    {
+      "City": "Indore",
+      "RTO_Code": ["MP09"]
+    },
+    {
+      "City": "Khargaone",
+      "RTO_Code": ["MP10"]
+    },
+    {
+      "City": "Dhar",
+      "RTO_Code": ["MP11"]
+    },
+    {
+      "City": "Khandwa",
+      "RTO_Code": ["MP12"]
+    },
+    {
+      "City": "Ujjain",
+      "RTO_Code": ["MP13"]
+    },
+    {
+      "City": "Mandsaur",
+      "RTO_Code": ["MP14"]
+    },
+    {
+      "City": "Sagar",
+      "RTO_Code": ["MP15"]
+    },
+    {
+      "City": "Chhatarpur",
+      "RTO_Code": ["MP16"]
+    },
+    {
+      "City": "Rewa",
+      "RTO_Code": ["MP17"]
+    },
+    {
+      "City": "Shahdol",
+      "RTO_Code": ["MP18"]
+    },
+    {
+      "City": "Satna",
+      "RTO_Code": ["MP19"]
+    },
+    {
+      "City": "Jabalpur",
+      "RTO_Code": ["MP20"]
+    },
+    {
+      "City": "Katni",
+      "RTO_Code": ["MP21"]
+    },
+    {
+      "City": "Seoni",
+      "RTO_Code": ["MP22"]
+    },
+    {
+      "City": "Chhindwara",
+      "RTO_Code": ["MP28"]
+    },
+    {
+      "City": "Bhind",
+      "RTO_Code": ["MP30"]
+    },
+    {
+      "City": "Sheopur",
+      "RTO_Code": ["MP31"]
+    },
+    {
+      "City": "Datia",
+      "RTO_Code": ["MP32"]
+    },
+    {
+      "City": "Shivpuri",
+      "RTO_Code": ["MP33"]
+    },
+    {
+      "City": "Damoh",
+      "RTO_Code": ["MP34"]
+    },
+    {
+      "City": "Panna",
+      "RTO_Code": ["MP35"]
+    },
+    {
+      "City": "Tikamgarh",
+      "RTO_Code": ["MP36"]
+    },
+    {
+      "City": "Sehore",
+      "RTO_Code": ["MP37"]
+    },
+    {
+      "City": "Raisen",
+      "RTO_Code": ["MP38"]
+    },
+    {
+      "City": "Rajgarh",
+      "RTO_Code": ["MP39"]
+    },
+    {
+      "City": "Vidisha",
+      "RTO_Code": ["MP40"]
+    },
+    {
+      "City": "Dewas",
+      "RTO_Code": ["MP41"]
+    },
+    {
+      "City": "Shajapur",
+      "RTO_Code": ["MP42"]
+    },
+    {
+      "City": "Ratlam",
+      "RTO_Code": ["MP43"]
+    },
+    {
+      "City": "Neemuch",
+      "RTO_Code": ["MP44"]
+    },
+    {
+      "City": "Jhabua",
+      "RTO_Code": ["MP45"]
+    },
+    {
+      "City": "Badwani",
+      "RTO_Code": ["MP46"]
+    },
+    {
+      "City": "Harda",
+      "RTO_Code": ["MP47"]
+    },
+    {
+      "City": "Betul",
+      "RTO_Code": ["MP48"]
+    },
+    {
+      "City": "Narsinghpur",
+      "RTO_Code": ["MP49"]
+    },
+    {
+      "City": "Balaghat",
+      "RTO_Code": ["MP50"]
+    },
+    {
+      "City": "Mandla",
+      "RTO_Code": ["MP51"]
+    },
+    {
+      "City": "Dindori",
+      "RTO_Code": ["MP52"]
+    },
+    {
+      "City": "Sidhi",
+      "RTO_Code": ["MP53", "MP66"]
+    },
+    {
+      "City": "Umaria",
+      "RTO_Code": ["MP54"]
+    },
+    {
+      "City": "Anuppur",
+      "RTO_Code": ["MP65"]
+    },
+    {
+      "City": "Ashok Nagar",
+      "RTO_Code": ["MP67"]
+    },
+    {
+      "City": "Burhanpur",
+      "RTO_Code": ["MP68"]
+    },
+    {
+      "City": "Alirajpur",
+      "RTO_Code": ["MP69"]
+    },
+    {
+      "City": "Agar-Malwa",
+      "RTO_Code": ["MP70"]
+    }
+  ]
+}, 
+{
+  "State": "Uttar Pradesh", 
+  "RTO_CODE": "UP", 
+  "RTO_Cities": [
+    {
+      "City": "Dehradun",
+      "RTO_Code": ["UP07"]
+    },
+    {
+      "City": "Saharanpur",
+      "RTO_Code": ["UP11"]
+    },
+    {
+      "City": "Muzaffarnagar",
+      "RTO_Code": ["UP12"]
+    },
+    {
+      "City": "Bulandshahr",
+      "RTO_Code": ["UP13"]
+    },
+    {
+      "City": "Ghaziabad",
+      "RTO_Code": ["UP14"]
+    },
+    {
+      "City": "Meerut",
+      "RTO_Code": ["UP15"]
+    },
+    {
+      "City": "Gautam Buddha Nagar",
+      "RTO_Code": ["UP16", "UP18"]
+    },
+    {
+      "City": "Bagpat",
+      "RTO_Code": ["UP17"]
+    },
+    {
+      "City": "Shamli",
+      "RTO_Code": ["UP19"]
+    },
+    {
+      "City": "Bijnore",
+      "RTO_Code": ["UP20"]
+    },
+    {
+      "City": "Moradabad",
+      "RTO_Code": ["UP21"]
+    },
+    {
+      "City": "Rampur",
+      "RTO_Code": ["UP22"]
+    },
+    {
+      "City": "Jyotiba Phule Nagar",
+      "RTO_Code": ["UP23"]
+    },
+    {
+      "City": "Budaun",
+      "RTO_Code": ["UP24"]
+    },
+    {
+      "City": "Bareilly",
+      "RTO_Code": ["UP25"]
+    },
+    {
+      "City": "Pilibhit",
+      "RTO_Code": ["UP26"]
+    },
+    {
+      "City": "Shahjahanpur",
+      "RTO_Code": ["UP27"]
+    },
+    {
+      "City": "Ayodhya",
+      "RTO_Code": ["UP28"]
+    },
+    {
+      "City": "Hardoi",
+      "RTO_Code": ["UP30"]
+    },
+    {
+      "City": "Lakhimpur Khiri",
+      "RTO_Code": ["UP31"]
+    },
+    {
+      "City": "Lucknow",
+      "RTO_Code": ["UP32", "UP32"]
+    },
+    {
+      "City": "Rae Bareli",
+      "RTO_Code": ["UP33"]
+    },
+    {
+      "City": "Sitapur",
+      "RTO_Code": ["UP34"]
+    },
+    {
+      "City": "Unnao",
+      "RTO_Code": ["UP35"]
+    },
+    {
+      "City": "Amethi",
+      "RTO_Code": ["UP36"]
+    },
+    {
+      "City": "Hapur",
+      "RTO_Code": ["UP37"]
+    },
+    {
+      "City": "Sambhal",
+      "RTO_Code": ["UP38"]
+    },
+    {
+      "City": "Bahraich",
+      "RTO_Code": ["UP40"]
+    },
+    {
+      "City": "Barabanki",
+      "RTO_Code": ["UP41"]
+    },
+    {
+      "City": "Faizabad",
+      "RTO_Code": ["UP42"]
+    },
+    {
+      "City": "Gonda",
+      "RTO_Code": ["UP43"]
+    },
+    {
+      "City": "Sultanpur",
+      "RTO_Code": ["UP44"]
+    },
+    {
+      "City": "Ambedkar Nagar",
+      "RTO_Code": ["UP45"]
+    },
+    {
+      "City": "Shrawasti",
+      "RTO_Code": ["UP46"]
+    },
+    {
+      "City": "Balrampur",
+      "RTO_Code": ["UP47"]
+    },
+    {
+      "City": "Azamgarh",
+      "RTO_Code": ["UP50"]
+    },
+    {
+      "City": "Basti",
+      "RTO_Code": ["UP51"]
+    },
+    {
+      "City": "Deoria",
+      "RTO_Code": ["UP52"]
+    },
+    {
+      "City": "Gorakhpur",
+      "RTO_Code": ["UP53"]
+    },
+    {
+      "City": "Mau",
+      "RTO_Code": ["UP54"]
+    },
+    {
+      "City": "Siddharthnagar",
+      "RTO_Code": ["UP55"]
+    },
+    {
+      "City": "Maharajganj",
+      "RTO_Code": ["UP56"]
+    },
+    {
+      "City": "Padrauna",
+      "RTO_Code": ["UP57"]
+    },
+    {
+      "City": "Sant Kabir Nagar",
+      "RTO_Code": ["UP58"]
+    },
+    {
+      "City": "Ballia",
+      "RTO_Code": ["UP60"]
+    },
+    {
+      "City": "Ghazipur",
+      "RTO_Code": ["UP61"]
+    },
+    {
+      "City": "Jaunpur",
+      "RTO_Code": ["UP62"]
+    },
+    {
+      "City": "Mirzapur",
+      "RTO_Code": ["UP63"]
+    },
+    {
+      "City": "Sonbhadra",
+      "RTO_Code": ["UP64"]
+    },
+    {
+      "City": "Varanasi",
+      "RTO_Code": ["UP65", "UP65"]
+    },
+    {
+      "City": "Bhadohi",
+      "RTO_Code": ["UP66"]
+    },
+    {
+      "City": "Chandauli",
+      "RTO_Code": ["UP67"]
+    },
+    {
+      "City": "Prayagraj",
+      "RTO_Code": ["UP70"]
+    },
+    {
+      "City": "Fatehpur",
+      "RTO_Code": ["UP71"]
+    },
+    {
+      "City": "Pratapgarh",
+      "RTO_Code": ["UP72"]
+    },
+    {
+      "City": "Kaushambi",
+      "RTO_Code": ["UP73"]
+    },
+    {
+      "City": "Kannauj",
+      "RTO_Code": ["UP74"]
+    },
+    {
+      "City": "Etawah",
+      "RTO_Code": ["UP75"]
+    },
+    {
+      "City": "Farrukhabad",
+      "RTO_Code": ["UP76"]
+    },
+    {
+      "City": "Kanpur Dehat",
+      "RTO_Code": ["UP77"]
+    },
+    {
+      "City": "Kanpur",
+      "RTO_Code": ["UP78"]
+    },
+    {
+      "City": "Auraiya",
+      "RTO_Code": ["UP79"]
+    },
+    {
+      "City": "Agra",
+      "RTO_Code": ["UP80"]
+    },
+    {
+      "City": "Aligarh",
+      "RTO_Code": ["UP81"]
+    },
+    {
+      "City": "Etah",
+      "RTO_Code": ["UP82"]
+    },
+    {
+      "City": "Firozabad",
+      "RTO_Code": ["UP83"]
+    },
+    {
+      "City": "Mainpuri",
+      "RTO_Code": ["UP84"]
+    },
+    {
+      "City": "Mathura",
+      "RTO_Code": ["UP85"]
+    },
+    {
+      "City": "Hathras",
+      "RTO_Code": ["UP86"]
+    },
+    {
+      "City": "Kanshiram Nagar",
+      "RTO_Code": ["UP87"]
+    },
+    {
+      "City": "Banda",
+      "RTO_Code": ["UP90"]
+    },
+    {
+      "City": "Hamirpur",
+      "RTO_Code": ["UP91"]
+    },
+    {
+      "City": "Jalaun",
+      "RTO_Code": ["UP92"]
+    },
+    {
+      "City": "Jhansi",
+      "RTO_Code": ["UP93"]
+    },
+    {
+      "City": "Lalitpur",
+      "RTO_Code": ["UP94"]
+    },
+    {
+      "City": "Mahoba",
+      "RTO_Code": ["UP95"]
+    },
+    {
+      "City": "Chitrakoot",
+      "RTO_Code": ["UP96"]
+    }
+  ]
+}
+]
